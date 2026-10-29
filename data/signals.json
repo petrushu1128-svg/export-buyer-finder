@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:07:02.589138+00:00",
+  "updated_at": "2026-10-29T11:24:58.060528+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News signals only. No importer, shipment, or email verification.",
   "items": [
@@ -78,9 +78,9 @@
     {
       "title": "PLN EPI partners with China's Geoenviron to explore waste-to-energy options - energynews.pro",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmxHOGluTDNEYmJUVkFTeno5SERaaWZrcDdFYi1vMVc2c1BvNDlBeUo4MGxUWW9aU195OEd4WFc1bjRyZ25kMS0xTzk4aW5MS1dDX0xoQjhpYmJwalZQaUlJSWVYeGVWSkhYZG5ZV0JQT3RfZFp3RTRFZmJ4bmRqOGZyZ25GMlpuN3EyU1kxU080MFN4TGxUaDdLNi1mRzdTdVE?oc=5",
-      "country": "China",
+      "country": "Indonesia",
       "published": "2026-10-20T03:02:56+00:00",
-      "query": "\"wood pellet\" procurement China",
+      "query": "\"wood pellet\" procurement Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -113,6 +113,14 @@
       "country": "United Arab Emirates",
       "published": "2026-09-17T07:00:00+00:00",
       "query": "\"wood pellets\" import United Arab Emirates",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Earth Insight Maps Japan’s Pellets to Cleared Sulawesi Forest - Wood Central",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HLUdZUHZJZ1owZUE0QndzQlo1LWFORTdLSGdvOTltaVl3Y0FVbzRhQVM3N3k1TnR1MXBQOUZjVWhodWVVWVQtTVJXcVFUQmRDUlhsUS14dGI2NmdBVzAtWjllVUlGUUNtS1pGaHZzR0I?oc=5",
+      "country": "Japan",
+      "published": "2026-09-15T07:00:00+00:00",
+      "query": "\"wood pellets\" import Japan",
       "classification": "unverified_news_signal"
     },
     {
@@ -192,7 +200,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zOG5MeFVaN2N3RGRqMW1uQmJGXzV3NEVDU2FhTmZSbGNkb1FtcXROVjg5SXZUeTFmRV9iQnAwUWxwOVgyQ2EtUDV0YWRlMjhYVE1BNVhiZG5iSkdPdWZtdlZNZ2JwZmM0QUF4Sk5yaHRnU2EtTW1ZS2h2UjhtZw?oc=5",
       "country": "Vietnam",
       "published": "2026-06-15T07:00:00+00:00",
-      "query": "\"wood pellet\" procurement Vietnam",
+      "query": "\"wood pellets\" import Vietnam",
       "classification": "unverified_news_signal"
     },
     {
@@ -420,11 +428,27 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Demand for Biomass Pellets in EU - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3o2VTJaTC1FY0RUdkNlbEs0OVFNT0pBOEVXYzQ1WnFoNnYxTXJDRlNoX19kVFRLQWdaWUpuNXZYLW5kMVo3dDZJV3NBVkw4Rkk1VHZ1ajFrVU1ydmZvVGliMG5GLVFjR2F5ZVNmOTNJcTdXUG5fWXk0MlNOenZtVkRJRQ?oc=5",
+      "country": "India",
+      "published": "2025-10-16T07:00:00+00:00",
+      "query": "\"wood pellets\" import India",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Wood Pellets Price in Canada - 2025 - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WX0Zrc0VhbGVITF8yRjAtQ0swLW0yUzRKZktmSTlKZWpDM1NhV2RjUzk2NGdud1RMRUw3TnA3ang4NUREZXQ1cFlLMFZYN0JyMTVZUjNQRWdLTTI0OHo0OHFCOW5IRjBE?oc=5",
       "country": "Saudi Arabia",
       "published": "2025-10-13T07:00:00+00:00",
       "query": "\"wood pellets\" import Saudi Arabia",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Biomass Pellets Market Size, Share | Growth Report [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuLURmNzc4Yi1rMHhYY2hqdTdURzJIUVlDYXF2aHJNTHlScjRySXZoRU9kRThXLWRZZmZVemxlS09NSF9jLWllTGx0RWxVa0hhZ3pleWNLMDZWNWs0NkdUSFBMR040SVdjWXc1UlRkWHpiTm9SaTkzVg?oc=5",
+      "country": "India",
+      "published": "2025-10-08T12:01:30+00:00",
+      "query": "\"wood pellets\" import India",
       "classification": "unverified_news_signal"
     },
     {
@@ -462,9 +486,9 @@
     {
       "title": "Wood pellet import prices rise 7% in South Korea in June - Bioenergy Insight Magazine",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWhtRTZOb0RZM1J4REgtYWg4b09CeHJlTGtBanZ1Sjg5cnlzcmFWSzJ4VGVjYU8xTjQ1TVR0WjlaOHV6RmhjRnp2RTZnbnRta3hYeFRWVDFHc3BuaGdxRFBQZUQxU0NRWHFwZlZUQy1CLTQ4VEVrY1lGZHdWeHRwX1g1d2RlMlVZQmxhNE8wT0JkZmRiRjNN?oc=5",
-      "country": "Singapore",
+      "country": "Malaysia",
       "published": "2025-07-17T07:00:00+00:00",
-      "query": "\"wood pellets\" import Singapore",
+      "query": "\"wood pellets\" import Malaysia",
       "classification": "unverified_news_signal"
     },
     {
@@ -486,6 +510,14 @@
     {
       "title": "Japan increases biomass imports from Indonesia - Bioenergy Insight Magazine",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ1BURExIQzk3emk2ZWtpZ3VJOHcxSTlDYm9sVWRVWVZheGF1dEY5alpOaFpKaW1SZzdadHBFc3JfSlFKdllKaW9ieUNEUjk0X3lIV2tybzE3ektaeWhieFlGZ29jQUJPdl9feFlqVzN2NDZPcnNPZk1LU1RZellCNjlUZnZqT1dGb19B?oc=5",
+      "country": "Indonesia",
+      "published": "2025-06-16T07:00:00+00:00",
+      "query": "\"wood pellets\" import Indonesia",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Japan Imports 640,000 Tons of Indonesian Biomass Products to Meet Energy Needs - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmhDaUx1LUtoSGlQTlEyV0U0ZDZVTWNzMjRiVmdVZGhZTzlUTWlnTWY1dnV0MzJ0MkI5Uko0VWlZbV9Rdi0ySm5KZzY2RGhZQzlodERkbFlSOGJTTEI0OFYwaG5aRzBPX2dUNGl5Qm5PTk1YQlFPYlUtOE44S0hacGR0eG5VbTVZSGV4MGtBcm9EZVFzT1FYRmZreXRHdTFMWHFxa3pIVEVVelZYOU9R?oc=5",
       "country": "Indonesia",
       "published": "2025-06-16T07:00:00+00:00",
       "query": "\"wood pellets\" import Indonesia",
@@ -521,6 +553,14 @@
       "country": "Vietnam",
       "published": "2025-03-03T12:15:12+00:00",
       "query": "\"wood pellets\" import Vietnam",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Clean Power 2030 builds stability by cutting import reliance - ember-energy.org",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ1ZFLW9LczJ2N2FQRnR4UndsenFSNmJHbVA1WnNEOGZpRWxQa25IMS1JYzN1ME1KVFprRE5oR2ozOXFEcGVobXZ2MGQxUHVCQlhwenFFZm81QVZIMTZLbFJEYXRtQWJhV2xpS1IxTzRuOGh2MjNYVE93cGtUOE1xVkNLZXRHLU5BMkN4MmZMOEFiUU56bXE1YjVyUllRWktyaGhIUg?oc=5",
+      "country": "India",
+      "published": "2025-03-03T08:00:00+00:00",
+      "query": "\"wood pellets\" import India",
       "classification": "unverified_news_signal"
     },
     {
@@ -628,6 +668,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Deforestation, natural destruction, and native displacement in Indonesia: The story behind \"green\" wood bioenergy - Trend Asia",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1hCODVWaEFhMjJiXzRYQi1wZmdRM0hrODNkT2NFd0F4N0o1YTJVb3pGdUV2Nk10Y2FBaDk3RHFGdkRIaGlYTUJvanZCMWZqdUd2VlRTSDd6Z2kxUlVrZ3hMVzZEMUdybUN5a1RoUGZtcC03R3phR19aLTlJNGZha254S3JtbEl5SU1LWC13RUlORzRPMDlIcUY0TDZNdWdzN1ZSUUhUbnItOGQ1b3BJVk9Dc0RfZUMtczBOS1dOZjdKcjlrdGh1NVp1SEZzams?oc=5",
+      "country": "Indonesia",
+      "published": "2024-10-21T07:00:00+00:00",
+      "query": "\"wood pellets\" import Indonesia",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Exploring the Surge in Wood Pellet Imports into Japan and South Korea - ResourceWise",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDAtcVR1a3JfN2RadlhiMzBkZEE1TEJXTnZaNDlnUUtFLWI2WC1TMnRqNWVzSm5RRmZqOVpWZTdMTnhadzIybThwQmc5WGtaX3VFbzNwQlpQZjhXUEFsZExyeEY4bU1sTTNVRHMxTks3RUNraW5RVkw4elRyREE0enRIa2RQYk1fRl9iSUJPOHJqZ3FwNnZhdUgtQjAyUTYzZFR4SHB3dkhPM1pPQ29WSDRzd25wRjU2by11bzA4cUlHQdIB0gFBVV95cUxPR3cwNWJjT2FteFBSaDVXM25xOEpaenJxcmJJTHBfN0NlRWs3YlFOUlg0X2tpaGNxMGxVTWRJYkdld09sUzY1UFVrUTRhVmF3TTd2N0xYU0tqNHNoWHRGRG1CaE8yVkRraDMzQkpseG8xb1VWVExiTlBWYUNZUVYya1piNndpN1prLUdrWjZrcVE5c0szc056M3dVajlfZUFDcDVjWGdvWERJWEctTDNYRUI5cDRKakNwUzFraFB0OEFMMkhFd21pbFQ5cTdCcUtsaGc?oc=5",
       "country": "South Korea",
@@ -684,11 +732,19 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Since Brexit, United Kingdom’s Agricultural Trade With European Union Remains Strong; Opportunities for U.S. Exports Emerge - USDA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSW05WE94bXdzYzIwSGxzaXFPODE4R0FDSGV3X1VGZmN1RkN2RmNpOWZBZ1JKdk9kcGdFNW8teE5wbmtuSW1RLUQ2bjluUzNIZTNRTUJMMWRHN1JhZGxXY0xWenlUdk5zdjJlWHppcE1LT1VnbUZrQ1kySVJXZGJfNWZDbTBZM3lfX01FbDU4VkJRTEs3cnI1VThhbDlDOWRwdmNFS2pveGh1b2xsTGF6UzNxWnRPME9ZSWhQN1dkTi1fWHQydWtKSXkxbHowQWdYY3lhQUxNSk1vQ0JQZGxHN2ZjZ0RJa2RsMFktenp5V2lNVXYxcmlWNXBEQVpGOTA?oc=5",
+      "country": "Singapore",
+      "published": "2023-12-05T08:00:00+00:00",
+      "query": "\"wood pellets\" import Singapore",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Smoke, Mirrors, Wood Pellets: Vietnam Clears Native Forest To Supply ‘Clean’ Energy to Asia - Earth Journalism Network",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkh4NVdlbDkxTXJabTgtbUhvV2Q3UFdDelE4MGdlaUNva2lCYXVVZkZ3cU5BZUs0WFA1bkdEcW9jMllnS1hKTUJVaURnWUFFdVVNWXo4dDRQdU1QX252aEtCQWJhU0RVZm5qV1JIaDU1VEpIdUctZWtRTnl2Z2g5Njd5Vnlpa1pHemRBcXBONnJpdGM2cU5WbnpVdk5OcEVrUlhfWEh1STBOR3dXS3ItTm9idVFXYlRNcTV5ci1fbw?oc=5",
       "country": "Vietnam",
       "published": "2023-11-20T08:00:00+00:00",
-      "query": "\"wood pellet\" procurement Vietnam",
+      "query": "\"wood pellets\" import Vietnam",
       "classification": "unverified_news_signal"
     },
     {
@@ -702,9 +758,9 @@
     {
       "title": "News Wood pellets fuel new South Korea-Russia container service - The Loadstar",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXB2aXNKc3NUYlJ5SHlkS3ZpMHd3cFRjV1lOTEh5ajU4TFpCaERiMVhvdk5FZW5GYmpTSkUyT1VKeVFsUVJnSzdZaUZ5WW1aeVFxdUVQNW1MMlFpMVVGZkN5RkhwdW9sZ3hxWDk0bGV0Z0lLZTY1Z21ZWjYzcmxiQ2xwb2lhVTBHTGJv?oc=5",
-      "country": "India",
+      "country": "South Korea",
       "published": "2023-11-06T08:00:00+00:00",
-      "query": "\"wood pellets\" import India",
+      "query": "\"wood pellets\" import South Korea",
       "classification": "unverified_news_signal"
     },
     {
@@ -737,6 +793,14 @@
       "country": "Kazakhstan",
       "published": "2023-04-05T07:00:00+00:00",
       "query": "\"wood pellets\" import Kazakhstan",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "India: A New Frontier For Biomass Pellets - Canadian Biomass Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2JnQ0dSQ3ptZlMtaXFqU01QN0l1UHB5V01naFZxeG1LT2UxOU4yU0tudWt0a2lFdFNWSkJuQ2RQQTRfMkdidFJPVHMwVEZtSXY3cGUwZkNaSDVvd3NFMmlCU09fc1F1Y3RRVmhxeEJSMXhuVDVNdlZzQUlIRlBWeWVlLVFWVUE?oc=5",
+      "country": "India",
+      "published": "2023-03-10T08:00:00+00:00",
+      "query": "\"wood pellets\" import India",
       "classification": "unverified_news_signal"
     },
     {
@@ -793,6 +857,14 @@
       "country": "Saudi Arabia",
       "published": "2021-11-11T08:00:00+00:00",
       "query": "\"wood pellets\" import Saudi Arabia",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "COP26: Surging wood pellet industry threatens climate, say experts - news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDZWNkhoNFpadVpYS05kd0k3YzlWM3B1M2EzQXlOdXFCZzg4WFphdGlaRlBubVhJcjhXbzFSZkdWb0xEcUZLVFVOcTB5YUQ4RDVtalRsbGFrTHdkOVpqV2pDV3JrS09UbTN6Y2xybks5VlpnVlUyZ3J6ZVBvZFhkRjFoSTJSSUVBbTRqNmxBRjlTNTAybEFkSdIBngFBVV95cUxPVTVrVHlmamhrbm41eU9tdm1RU2tHNXlzazRYX0xoSmdHOWRaM3ZHNUJlRmg3SWxSUzlGVHdSRWNzTV9CNFAzZjVpMUFXUS1TQ3NRRzJPMS1OLUtZeW84X2VSUTd1Qm5kaW9Pamd0UFpLUFozTjNHd0t2d0hRT0RUeDgzSDIzaTRrLUY5QXFQQUJxakYzdGtybm9aZEtsUQ?oc=5",
+      "country": "Thailand",
+      "published": "2021-11-09T08:00:00+00:00",
+      "query": "\"wood pellets\" import Thailand",
       "classification": "unverified_news_signal"
     },
     {
@@ -860,6 +932,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Indonesia's Wood Pellets Market Report 2026 - Prices, Size, Forecast, and Companies - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmV1ZkY0TlQtS1UzZ3ZvVldXbGJoOFlnYVRPWk05Q1VfeEJlZmh0Q2FIdFdqWGhrYjFQRnhmTG9vRWM5X2RnbVhrYTRCWlVKRzVRbGwydDlueGVFQVE1ekFIZnNuYWQ1QlVLZlRmT0ZyUTB3Yi13b1VnMXNkQVRTakxjSTMzbjRlRVRTYUVOaGJvLXllWkFTdlBqQVpBV2N0cUhjRTdB?oc=5",
+      "country": "Indonesia",
+      "published": "2018-10-24T10:16:50+00:00",
+      "query": "\"wood pellets\" import Indonesia",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Lessons from transboundary waste trade: Why India should focus on the judicious use of its own waste - orfonline.org",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd2dJMzVKb0VUQlpBVEFvZXlfY0ZjazJUOFpRcGpMc2ZGRmNnNlJlbjJqckpydERRR1pySFRJb2xpY21JU3FGVmFCQ3NzaGVZX0pzZWF3NHN3elZpeHpLSnVRLS1jWjI3dS04OGQ1VmU2d1hqN056TTQzejVlejlETnE5MTRXWUh1SWZaYXBBdXpnNmZnYnNZYVRQTzdvdHBxV3M5cl81bDh3WndRZy04aXBFNGdaLUdkR0hEZ3hxSnVBOXVqZm1pLWRtUWwtbGc?oc=5",
       "country": "United Arab Emirates",
@@ -902,9 +982,9 @@
     {
       "title": "US Forest Product Exports to Asia - Biomass Magazine",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTl6a1ZaOGV2WVdYNFFxUDQzbWxVU3JtT0hSZ1VkNThxajdmcWVna3lpNkhkS2dmMXJHeGlxYTBQZEx1dUpkUjFFdjY4T0Q5YjRXcl81bVd4c2ViRzhoSEhSSWJJNTBpeTB4azJSWkVKQXdpMzVIRmMtR2dNVDBOdFBn?oc=5",
-      "country": "Thailand",
+      "country": "Malaysia",
       "published": "2017-03-21T07:00:00+00:00",
-      "query": "\"wood pellets\" import Thailand",
+      "query": "\"wood pellets\" import Malaysia",
       "classification": "unverified_news_signal"
     },
     {
