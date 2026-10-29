@@ -1,0 +1,16 @@
+[
+  {
+    "company_name": "DL Energy (historical investor)",
+    "country": "South Korea",
+    "facility_name": "Poseung Green Power",
+    "role": "investor",
+    "sector": "power_generation",
+    "capacity_mw": 43.2,
+    "pellet_grade": "industrial_fuel",
+    "fuel_note": "Historical project description mentions wood chips and wood pellets; ownership and present use require review.",
+    "evidence_url": "https://www.dlenergy.co.kr/workingAssets/poseungGreenPower.do",
+    "evidence_type": "official_project_source",
+    "official_website": "https://www.dlenergy.co.kr/",
+    "evidence_reviewed_at": null
+  }
+]
