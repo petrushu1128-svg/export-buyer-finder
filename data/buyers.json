@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-29T11:24:58.060528+00:00",
-  "source": "Organization-like names extracted from public news headlines",
-  "disclaimer": "Candidates only. Country is article search context, not confirmed headquarters. No import activity, website or email verified.",
-  "items": []
+  "updated_at": "2026-10-29T11:53:00.400076+00:00",
+  "source": "Company suffix matches in public news headlines",
+  "disclaimer": "Unverified mentions, not confirmed importers or wood-pellet purchasers. Country is search context.",
+  "items": [
+    {
+      "company_name": "Hanwa Co., Ltd",
+      "country_context": "Indonesia",
+      "classification": "unverified_company_mention",
+      "official_website": null,
+      "public_purchasing_email": null,
+      "shipment_verified": false,
+      "shipment_evidence_url": null,
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxLUI4MWNWSnZTdWZDYzdFNU01Mm0yTnd3Y2ppaXQ2NjI2b1dRcWRzQTFDZG9XMGV5NkQzWG9NSmhuRjJqUmJGSkdRTVUwSXlUeDRnNVJ2UVk?oc=5"
+      ]
+    },
+    {
+      "company_name": "Indonesian Environmental NGOs Urge Hanwa Co., Ltd",
+      "country_context": "Indonesia",
+      "classification": "unverified_company_mention",
+      "official_website": null,
+      "public_purchasing_email": null,
+      "shipment_verified": false,
+      "shipment_evidence_url": null,
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmQnk0UFVodGRTbkp6RjJCbjZJY05ScUZRRXR4Y0hjemJqaG1xcUZjZFhURTY1TjBQWTF1cURpV3ZCaklSLUJlZnk5WXRDQjNiQWY0TFBmcXk?oc=5"
+      ]
+    },
+    {
+      "company_name": "K-One Corp",
+      "country_context": "Malaysia",
+      "classification": "unverified_company_mention",
+      "official_website": null,
+      "public_purchasing_email": null,
+      "shipment_verified": false,
+      "shipment_evidence_url": null,
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHE1MWJSOF9OZTdWNzZLZTdIMEl0UWh1aWlSd3dyandIeUJMSUEyVzVpZkdPakluZDJ5Y2NVQ09sSUEyX2l4RUYxUlM5dXRBUVhYZGh3QTQ1dE4xYXhCY3ZiVmk5NGZRM2w1WXQwOTBPZDNMQUowRmJVeE0zMG1ZT1ZUaWJfa2dYSWVMeGxpbTUxWkFBTTVTcV9OTjltMG1GbEFBd0R2LWRGSmZ6QnoxWlNWZEgzZ0tuckg4VFh4S081M0dBRkt4b3I2cW0?oc=5"
+      ]
+    },
+    {
+      "company_name": "Co., Ltd",
+      "country_context": "Thailand",
+      "classification": "unverified_company_mention",
+      "official_website": null,
+      "public_purchasing_email": null,
+      "shipment_verified": false,
+      "shipment_evidence_url": null,
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNmFIbGdtT08yYWlXOGIwWk45QkJ0X0dpdGxGWWNFMHhLYVg0VEdpeTRoRVBqTzBFZTNOYjRUYV82RVJiT0kwRGN3QTZrN1lFSmRCYUg4UnBVSW41dEQ1a3RBbnhOeHEyZkhpOEl3Tm1yemQ4X1I5WUFtSDR1T09ac3BLVi1mLWlQVVQyN2FkeGFramtkVWxjUU1xejUxWWlwalRGMHEyNmhBOVUwT1BoSllFZkRuczJjM29XTFk5VHB2STAtNHBVaEVNQ2dxTnBnRUtGdURxbXI3VDFHbzdzTFFEYnI3Q04xWm5fbzFINlA?oc=5"
+      ]
+    }
+  ]
 }
