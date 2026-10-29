@@ -94,11 +94,20 @@ def collect():
             name = re.sub(r'\s+',' ',match.group(1)).strip(' ,.-')
             if len(name)<7 or BAD.match(name):
                 continue
-            key=(name.casefold(),s.get('country_context') or s.get('country','Unknown'))
-            'country_context':s.get('country_context') or s.get('country', 'Unknown')
-                'classification':'unverified_company_mention','official_website':None,
-                'public_purchasing_email':None,'shipment_verified':False,
-                'shipment_evidence_url':None,'source_urls':[]})
+            
+            country = s.get('country_context') or s.get('country') or 'Unknown'
+            key = (name.casefold(), country)
+            rec = buyers.setdefault(key, {
+                'company_name': name,
+                'country_context': country,
+                'classification': 'unverified_company_mention',
+                'official_website': None,
+                'public_purchasing_email': None,
+                'shipment_verified': False,
+                'shipment_evidence_url': None,
+                'source_urls': []
+            })
+
             if s['url'] not in rec.get('source_urls',[]) and len(rec.get('source_urls',[]))<5:
                 rec.setdefault('source_urls',[]).append(s['url'])
     buyer_rows=sorted(buyers.values(),key=lambda x:(x.get('country_context',''),x.get('company_name','')))[:500]
