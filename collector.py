@@ -94,7 +94,7 @@ def collect():
             name = re.sub(r'\s+',' ',match.group(1)).strip(' ,.-')
             if len(name)<7 or BAD.match(name):
                 continue
-            key=(name.casefold(),s['country_context'])
+            key=(name.casefold(),s.get('country_context') or s.get('country','Unknown'))
             rec=buyers.setdefault(key,{'company_name':name,'country_context':s['country_context'],
                 'classification':'unverified_company_mention','official_website':None,
                 'public_purchasing_email':None,'shipment_verified':False,
