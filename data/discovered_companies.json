@@ -1,0 +1,22 @@
+{
+  "updated_at": "2026-10-29T15:40:57.362235+00:00",
+  "source": "Google News public RSS",
+  "disclaimer": "Unverified company mentions only. Country is search context, not confirmed headquarters. Large scale and pellet use are NOT verified.",
+  "items": [
+    {
+      "company_name": "Hanwa Co., Ltd",
+      "country_context": "Indonesia",
+      "sector": "power_generation",
+      "company_size": "unknown",
+      "classification": "unverified_news_mention",
+      "wood_pellet_use_confirmed": false,
+      "official_website": null,
+      "public_business_email": null,
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjTVpzYVZPMnJrTGlrd3FyZGxGcEJMXzE5S1BPc2lYTGpHV3dPRnJGRXZwTmdhN05YVW1rMk8xUHBpZ3JoZS12ekU1Z0xCMjdXQm5obDlBWHg?oc=5"
+      ],
+      "first_seen": "2026-10-29T15:40:57.362235+00:00"
+    }
+  ],
+  "errors": []
+}
