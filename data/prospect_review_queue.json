@@ -1,11 +1,31 @@
 {
-  "updated_at": "2026-10-30T05:28:46.035589+00:00",
+  "updated_at": "2026-10-31T05:25:52.798320+00:00",
   "disclaimer": "Research queue only; no company size, pellet usage, active purchasing, or source validity independently verified.",
   "stats": {
-    "unique_name_country_pairs": 6,
-    "needs_review": 6
+    "unique_name_country_pairs": 7,
+    "needs_review": 7
   },
   "items": [
+    {
+      "company_name": "K-One Corp",
+      "country_context": "China",
+      "sectors": [
+        "pellet_distribution"
+      ],
+      "discovery_sources": [
+        "discovery"
+      ],
+      "evidence_urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHE1MWJSOF9OZTdWNzZLZTdIMEl0UWh1aWlSd3dyandIeUJMSUEyVzVpZkdPakluZDJ5Y2NVQ09sSUEyX2l4RUYxUlM5dXRBUVhYZGh3QTQ1dE4xYXhCY3ZiVmk5NGZRM2w1WXQwOTBPZDNMQUowRmJVeE0zMG1ZT1ZUaWJfa2dYSWVMeGxpbTUxWkFBTTVTcV9OTjltMG1GbEFBd0R2LWRGSmZ6QnoxWlNWZEgzZ0tuckg4VFh4S081M0dBRkt4b3I2cW0?oc=5"
+      ],
+      "official_website": null,
+      "public_business_email": null,
+      "wood_pellet_use_confirmed": false,
+      "active_purchase_confirmed": false,
+      "large_company_confirmed": false,
+      "review_status": "needs_manual_evidence_review",
+      "priority": "research"
+    },
     {
       "company_name": "Hanwa Co., Ltd",
       "country_context": "Indonesia",
