@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-01T02:36:30.344077+00:00",
+  "updated_at": "2026-11-02T02:39:24.240302+00:00",
   "source": "Google News RSS keyword discovery",
   "disclaimer": "Purchase-related headlines only; not verified B2B RFQs, buyer identities, or quantities.",
-  "items": []
+  "items": [
+    {
+      "title": "French consumer group launches bulk-buy wood pellet scheme - The Connexion",
+      "country_context": "India",
+      "published": "2026-05-05T07:00:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeW9VUzl2c1lweWdGbDBWVU5TQ1JJM3dLcmFnNm1qT1VNTVpnRDBxNHQ3ZS1TV3ZncmZxWnp2MXBsOHVQcDRQNlZWUnhmalN5a0RKc3R6eTJnVmpxWlJreVBVWHBKQUJqRlZoR2lmd1hPenAzb0Y2Z2dSVnJEOTNRRWdTQkp2cS1IYzhqN3NjVWpza1BDdXBiZEJaOE5sa1B2WlN6bnJwdmV6OVk?oc=5",
+      "source_type": "news_search_result",
+      "classification": "unverified_purchase_signal",
+      "buyer_name": null,
+      "quantity_mt": null,
+      "contact_email": null
+    }
+  ]
 }
