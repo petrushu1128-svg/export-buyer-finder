@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:43:07.206770+00:00",
+  "updated_at": "2026-11-07T02:36:19.259793+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
@@ -33,6 +33,14 @@
       "country_context": "Cambodia",
       "published": "2026-11-03T08:56:21+00:00",
       "query": "\"wood pellets\" \"power plant\" Cambodia",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Biomass Pellets Market Size, Share, Trends 2036 - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sV1VzOTdORkF0b1kySFNiV0NfNTh2ZE1hODM0OXItYV9vMGVvQWRuRFl1bm1XRDNfUVpndHRfcjBHYWpHNXBSU1psdGx2RVEwVzU5LUNQdVM4UEVjeThQQU5Kdkx1cmlmTDVaZF9CVGxvbTJPdlE?oc=5",
+      "country_context": "India",
+      "published": "2026-11-03T08:00:00+00:00",
+      "query": "\"wood pellets\" \"buy\" India",
       "classification": "unverified_news_signal"
     },
     {
@@ -113,14 +121,6 @@
       "country_context": "United Arab Emirates",
       "published": "2026-10-23T09:22:19+00:00",
       "query": "\"wood pellets\" \"buy\" United Arab Emirates",
-      "classification": "unverified_news_signal"
-    },
-    {
-      "title": "Biomass Pellets Market Size, Share, Trends 2036 - Future Market Insights",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sV1VzOTdORkF0b1kySFNiV0NfNTh2ZE1hODM0OXItYV9vMGVvQWRuRFl1bm1XRDNfUVpndHRfcjBHYWpHNXBSU1psdGx2RVEwVzU5LUNQdVM4UEVjeThQQU5Kdkx1cmlmTDVaZF9CVGxvbTJPdlE?oc=5",
-      "country_context": "India",
-      "published": "2026-10-23T07:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" India",
       "classification": "unverified_news_signal"
     },
     {
@@ -278,9 +278,9 @@
     {
       "title": "Concerns grow over ‘green’ biomass power in Japan after spate of accidents - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPempEdGJ0czRBdElEeE5QX2pQNi03cVQwdXJ6SS1Tc296RkE0alU3RFFhZzFWYXA0enhDc1RYMlNFSlN4aGh6cFlNVmdxMUVDdkJhUlhELWdOTm1IMG95WTMtZDQtZ2lMd25ZSFppTUQzWUhRVmhoU3RsZGliQ1gzU2pvYWFlU3JlcjRRbEtxRnEya3diSC1xVW41eXBCOW9KdVAweUR3UEVfZ03SAbABQVVfeXFMT1F2QjBVVTR3UEdzQmVTTFBjMFBYNEIyMUJoVURMaGx1VEY5bzRPTEVEQllhR0NGVVAxYnBmYk9zWTgyYUxiV05wUmRnb3ZtbDdVOUFvT0xRTkZVVjYtZE1OMGJhRnRaQ2FGLWlSd2xWZXdGQVVpeElaWHg1dmczeV9fblY0OUhFTmkydEtvWnp4YzJNUkxSRmhjRUVtWmt5VDlUZjJFemlTbzBhcGR0T2E?oc=5",
-      "country_context": "India",
+      "country_context": "Cambodia",
       "published": "2026-08-17T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" India",
+      "query": "\"wood pellets\" \"power plant\" Cambodia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1020,6 +1020,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Fortis Energy expands portfolio with Türkiye biogas plant - Bioenergy Insight Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGdCalQyaE1UUnZCdFNGb2k2UVhCampTU2psSEtKWHU3dFl0UDRWcTRwdGx5RmdkM2E0cl9WRmNIR2t3ajFxQjk5bHdxd3ZFcEdVYUcyMzB4bkc2Vjg0ZkNDZXZrQ0JSd2podE1HRVlQZDdWRW5sd3ctVEtEbEJyT2I2Z0dmeWdrMHNsc0tBeXBZTW9acFBtQmlB?oc=5",
+      "country_context": "Turkey",
+      "published": "2025-08-04T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Turkey",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Nebraska plant explosion killed 2 girls and an employee, and the fire is still burning - CTV News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTVKV052QTdVbzNFX0NmNW14dm9hZXk0ZE91czkyMW9OV0UtNFFINW1KaFdfMGQ1SnlCY1NqQ3hXMUNxTld3WVlybU9zejFDWVB2VEJQcVJuYTg1dDY4RnlKQXQteXFhWXNIVk95WllQaW1zVVBFdmRkQkJBU1o4ODBNWlJvNlpyRklCSnV4TFdXUUpIYTdzekwwLWxMTjFEMnFzT0FCSG5OQThoUlNhNlhpRzg4TUVpTmRqVA?oc=5",
       "country_context": "United Arab Emirates",
@@ -1116,6 +1124,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Erex announces biomass plant for Kampong Speu - Bioenergy Insight Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFNVY1k3VU0xVUQ1VXk3TkVSUnM5c2hadWkxQmc3T2ViUXdRbTNFQkhHZnQ3LWZ3enJzZHVaOVAtZTRxLUpEMTF4QVlmYk9uREFvbjJwLWdJOEw1SlFVLVYybkRvd1pYMnhsal9sY1NWaDNUcnVEY25lTWdsOGlUY2t3YkpCazZJQ0E?oc=5",
+      "country_context": "Cambodia",
+      "published": "2025-05-07T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Cambodia",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Facing the Bulldozers: Iban Indigenous Resistance to the Timber Industry in Sarawak, Malaysia | HRW - Human Rights Watch",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1A0amxfbzV4TlNsSEZMcVRwWk1icG1rbVZzQ2pla2hGaUotMmlVemxjeW9pdFZrc29Mb1NQTkRpVUN1b1p4OGdjek4xTm9Lbjdaay1iU3lHdjkwTVVHM3VPVnNtcmhHRzVJV18yeGk4SGc1eGtwLVFmVUdJT1ZUOTBoamZPY3gwYWhNLU1lZTJCLVJ3V3MwRFdmd2NxcnhrXzZ4ZXlNdzktYXRFdDh1cklR?oc=5",
       "country": "Brunei",
@@ -1142,9 +1158,9 @@
     {
       "title": "Netherlands’ largest forest biomass plant canceled, forest advocates elated - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhYN3FGYVc4bkt5c2dCVUpDZm9wd3NnOHl3QU9vVTFiNXNvRFdLUlNGYnlnR1dmcE9JVmxhY2t6RjY4MlpvdFY0aFF6ZU93aVNyQ0w1Y3JLRTRpV1YzSUlkUWpQc3drR3BFWERjd18ybmR0NnRBTjB2eG44aXhRTlBDak1xdEZ6c0lUTmZyaWFCbkxkSDREdE9oNzhXdkhiNC1jSjQzWTJQZmtW0gGyAUFVX3lxTE5jZGV4dFVmNDZfcDJZSVBlUEhMZk5CNVVlalV0M3VKdmRYaHlrZ0xhVUJCLWtlOFJmMTlTRElWdDFkbGdKT2d5N3JHM1RxOUdCWmF5dlZOeE1qTHR5SGNjbXNtYmU0MjNSaWV4eWI3UDNJSXZFMnd0bVY1bVotX05fdHR3OWM3ZnJrSGxqTU1JT20yY1RjQTl4elFmaWFMbjgtRFN1eU5Cek9CY016TUxYVnc?oc=5",
-      "country_context": "Mongolia",
+      "country_context": "Pakistan",
       "published": "2025-03-27T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Mongolia",
+      "query": "\"wood pellets\" \"power plant\" Pakistan",
       "classification": "unverified_news_signal"
     },
     {
@@ -1644,6 +1660,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "ABB supports Japan’s growing biomass power market with ninth automation order - ABB",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV25nQTJjWGc2N1ZyTGI4cHljVmhDOFZqLUhWVjQtSHBVWDE1ZGt6MTJIeEpka1RfbUFPRjk1WDJ5cGpqVUt2dGFpelJ2S0psWC1IdWt1YV94eTdnbFJMOFUtOW9laVlLenlOZE5KNVIzaTB4d01ENGJaTWhodERjQnVSOVZNVWgwd21la3lKcGhLTEx3cnhnNzVJakVPekhCT2FvazBWTjFGMXFEUDhmdlV0UXRoQQ?oc=5",
+      "country_context": "Kuwait",
+      "published": "2023-07-18T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Kuwait",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "The Central Asia Connexion: How Belarus bypasses the European embargo on timber exports - Voxeurop",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWFzTG9YQVY5YVNJXzMxNjhBdWxYdlJqaGdWTlNUUnl0Y19ubzNPTUpyOENaRjdOREc1VmR1WDVNbWFzcVh6b0J5WUZON3NadzMxMTQwNzNMdVdiVmQwY2c4Y2wtVXBsQ3JsNTdLNVJKSGdrT3B3LXotbVloRklEVnVrQkZJMUNkWnZlRDk2Q3liMzhvcHpPNlNVRUFrcVBs?oc=5",
       "country": "Kazakhstan",
@@ -1748,6 +1772,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Bypassing the sanctions. Belarusian wood enters the EU under sham papers - Беларускі расследавальніцкі цэнтр",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzVoSkN0VEVoNTh6TUZxeWRVVVJaX3lwc2xZQW9aU0dFWkVVOUdVSUZaWV8xaEVyQThiM3ZxSzdrZEgwZ09Vajlwa01kOEhlMDUzRHlCZFJJVW91X1dPbjExMk9fYXNqcTdFc0o0cGR4NE95Wi1nNDU5Y2gydU0yalpXNHpPY2lnTGlldTdrX1gwNWZLbnh5YUQ3dUpmZXBmVFE?oc=5",
+      "country_context": "Kazakhstan",
+      "published": "2022-12-20T08:00:00+00:00",
+      "query": "\"wood pellets\" \"buy\" Kazakhstan",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Impacts of the US southeast wood pellet industry on local forest carbon stocks | Scientific Reports - Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44YnQ0Y3l4NHdsUERqYV9iRU11VW5KeU1USUpFNXkyRkdfMENkSTJLajRsTmJtY0FGbUc4MTJvWDNuNFFqdDNTYTI5N1JNRDN6anZQeW9QbHNKTlVCUnJn?oc=5",
       "country": "India",
@@ -1822,9 +1854,9 @@
     {
       "title": "As biomass burning surges in Japan and South Korea, where will Asia get its wood? - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGhGVjg4TWFVbG1QQVhUd0NsLTR0LUQtblFsaHdfRFRsb3czREFQaDVtRV95cWo3Mkp5V3RyVkE5bzB3WHRpSkc3Xy1WOVl5c212QVhHUjZDVU80cXJta0w1WEdIaDE3TVEzQXhyNE9RZHM0bWw2czdUZUtud0duNnFxaGlWX2hNR1plenMwLWw3ZVdGb3AtN2JBZ09oMHhGVG1iSmxPMHVkblpqd1VsTEV1anHSAboBQVVfeXFMUFB0M3BzT0lFU3dLdEZ0ZjRwRjlpZlg0ZlZaa2E5YXg1cFRKa2IwaTFSOHkyUmItYW84SWZZS25kaU5mRnpJUDhURVptdmU0WndCU0M2aWhqaXpERGl1WEJMUGczTTZSNG5VbFB6bC1mc1JnbEtpZ0hROVNicnJEZVVFbFRDcXV5QWRsTlZxY2VsX0l6dEhXd0tYcmNCaUJiSFN1MXcybVpsY0FoaTNNNjBvcFZTMkpGZElB?oc=5",
-      "country_context": "Pakistan",
+      "country_context": "Vietnam",
       "published": "2022-05-19T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Pakistan",
+      "query": "\"wood pellets\" \"power plant\" Vietnam",
       "classification": "unverified_news_signal"
     },
     {
