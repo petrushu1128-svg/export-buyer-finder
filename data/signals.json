@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-11-07T02:36:19.259793+00:00",
+  "updated_at": "2026-11-08T02:39:22.826375+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
+    {
+      "title": "Label Stock Market in China: Size, Trends and Forecast to 2035 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUdGS2d0cWI0QXFtOUdWMUJXZ1d5b3R2cHdSakl3WEhFTFIxd2E2Vko0Tl9BRC1iMkZQWmRYOHBWNk14bksyMWhDM3VSZ3cyd3ZQNVNFQTh2SUQxUUVleXRMZk1nQjFjcEJzTEJBY0hKUkRhRVdrTGRaOU1xY1VBQlZzaENkNml4eDl1a3YzTU5YNGdaWFJXajNyN3NHY0U?oc=5",
+      "country_context": "China",
+      "published": "2026-11-06T01:50:19+00:00",
+      "query": "\"wood pellets\" \"buy\" China",
+      "classification": "unverified_news_signal"
+    },
     {
       "title": "Drax power plant strikes £20bn deal to host one of UK's largest AI data centres - Engineering and Technology Magazine",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjVCLWFKQlg0eExJQXA3Y0tvNjBSSWtJS0tTeW8zbHdOV2lSN0ttYkszaFBfR2NnbXpmbGVuRG5JcnQ2OEdyeUpDUnkyR0phREpSSVl5VVVPOWlVQUVManZSSGg5eXdhOF9IWWRMWkZ1bkExbzZOWWwwQmVWMnZpcml1VVZnVHZNRkhSWnBXVQ?oc=5",
@@ -439,7 +447,7 @@
       "title": "Erex announces plans to construct 112 MW biomass power plant in Japan - Biomass Magazine",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEUtY1FORjM3dWp0SUVzVnA1a0VuNGVGWlJiVnNzbGhxb3AtaWM1Y1NHRGxtc3duX28tYVJOUzlVT1Iyc1VHVEFSTU1ab2hGLWlzVnZKWFZuNW40MjBQcmhCTTNfTlh4UnNhR3lIa1d6T041bndOR2ZoVlp2YjVfWFRyS0lZTkxPQjh3NTQwRzRzWFk1N1BxQmJEZ2M0QXE1LTlBUnNiT0NCQQ?oc=5",
       "country_context": "Japan",
-      "published": "2026-05-27T07:00:00+00:00",
+      "published": "2026-05-27T23:09:35+00:00",
       "query": "\"wood pellets\" \"power plant\" Japan",
       "classification": "unverified_news_signal"
     },
@@ -614,9 +622,9 @@
     {
       "title": "Elridge Energy signs MoU with Berkana Power for 100,000 tonnes of palm kernel shells - Oils & Fats International",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVZ0YjhxYjFHYXdDaXh4cE82X1RJWkNNQXJZZzBLdFlTcFlsQnNleTRPNmh3VjRXeWdwcXVQNHBkY20yeWt0MjRCNUp6MlZXNU96QlhQRmVTSmI4WmtPd09FVXdQLWdtRDFFa0gzZHoydGhzTGNHUnZuQldqYzR0WTZMd2FuTlpWMDVYRUFNQ1RpaDBnZGw1ZFdiUm5vczVmU3hNNkF1dlFrc2J1ZHl3S2FOd1E2Wmtp?oc=5",
-      "country_context": "Singapore",
+      "country_context": "Malaysia",
       "published": "2026-02-20T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Singapore",
+      "query": "\"wood pellets\" \"power plant\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
@@ -737,6 +745,14 @@
       "country_context": "Japan",
       "published": "2025-12-04T08:00:00+00:00",
       "query": "\"wood pellets\" \"power plant\" Japan",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "UK using more wood to make electricity than ever, Drax figures show - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWJEWE8yeFNRSzR1OTdJODBNRngybXp3TDFYZUQ1UjUzYk5FdDlDdmQwaHVfanJYWHpkZUZfM1dYb0wyME16bkZRZkhUOURsQWpIdnBPd0dmYmM0X3MtVUp0dUtGUXdFQWZQQ3dxMURBQ3AyOC10UktJMVpKeUR1WFl6Z2N6UTdJM3FFcTkzX2NRR1N3UHQyS3VvRWVxcktWR1dOWTN0eW9jYTFCSXZGR05aanZYQQ?oc=5",
+      "country_context": "Singapore",
+      "published": "2025-12-04T08:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Singapore",
       "classification": "unverified_news_signal"
     },
     {
@@ -1300,6 +1316,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Blackwood announces production start of Thai commercial black pellet plant - Bioenergy Insight Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS19qd3RRXzB4ZS1yOW5SZ3VZSDZzSXpjTkNoOFJqSWhBWGRTeHg3VDMxYjE0Y3dMZzJ1WHJveFQ0UFRPQjF4NEVlOUwzWHlSZkRINVY3MDJXUm91Q3JyRzVGSHRfeU1ReVBCam1VVy12bF9nZDF4NnR5SGhDS2g1emY0T01oSTVHaG1feDJHSTh6TlAtRV9SWi1LTmVfT3dlQnVRdlRaNE8xX3JtUElSWg?oc=5",
+      "country_context": "Thailand",
+      "published": "2024-11-18T08:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Thailand",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Yeti, e.l.f. Beauty and others prep supply chains for Trump tariffs - Supply Chain Dive",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjRpeURCVHp6WjMzVnJ2YkU3TzRNQkhpQWVGR2FaQjFZYS13QVphcjB0VlM1QXdGSTRtb1pWbHlEV2dCcTFJTDZONWxwUkVqZ1V1REdvNmNBMk03dTZHNjF4cHJTRW10OWgtUnZQT195eGRsaVdQYnpNcXpmVU1xVF9kTFZ4cm1I?oc=5",
       "country": "Taiwan",
@@ -1326,9 +1350,9 @@
     {
       "title": "Indonesian forests pay the price for growing biomass energy demand - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm9MTjA4aTZKUEpQUi16TS1KN2FWYUtlRllyYlpwVXZNczlJdDU5cjltUk81WEtDcThQTUtHZXM5R0M0eENOdkV1MkVTWEtmaUJBSGkyQXlaa1FIVE1LR1ZuZmdYVFdURlNNZTVrNnhYeFkxOHVvX0VITGFoN3Y4VTI2RFB4c2ZNTklPb1c3ZHd6Ynh2Wkk1QzkyN2tFZHBLR0tNR1oyQU9tRVE3M1Jpa1RtcnZqcHdNbk16cXhvX0hQb3RaMkHSAcYBQVVfeXFMT2hTNWdCV082ZU1MR0NOSzM1NDdRWFltS3gxWnJsaUttRVJ6cm1GNjdCN055bGZaeXVWWVhDTVQtVWhKWTFtTnFnMjNiV1d5a1dKcjYycHhSU1NVX1l3YmNxV3prTXhLd1ZLOUhGaEpzTVRVeldzV0VyQjJKd3pYc3hfNTNQVHFNdG8wV3FrRFJiaHd3RW5OVFBRTGpLaHNJT2hwYTFDUW05V2dQQmdfOHJnT0NBQno4N01DQVBYbjJBYUtCOGZ3?oc=5",
-      "country_context": "China",
+      "country_context": "Indonesia",
       "published": "2024-10-27T07:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" China",
+      "query": "\"wood pellets\" \"buy\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -2070,9 +2094,9 @@
     {
       "title": "Perhutani Transforms into Green Company - Perhutani",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zaVE4TWhkUlVLb0kzdjdDdkNRNVVMUGF1R0JFdlBDSTltWFpqek9tQXdMSnc5NGdFRVNGMW9tbVR1UjRUc29UWE5nMkNULWUyR0Q4TnF0LTBObHNvSFBZQXRXc1BudkFyaThWYnVyQkl0clgydEtj?oc=5",
-      "country_context": "Indonesia",
+      "country_context": "United Arab Emirates",
       "published": "2019-12-10T08:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" Indonesia",
+      "query": "\"wood pellets\" \"buy\" United Arab Emirates",
       "classification": "unverified_news_signal"
     },
     {
