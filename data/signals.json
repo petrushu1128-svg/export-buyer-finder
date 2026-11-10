@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:42:42.938822+00:00",
+  "updated_at": "2026-11-10T02:38:43.969482+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
@@ -23,7 +23,7 @@
       "title": "Japan’s erex reaches 30% wood pellet co-firing in third Vietnam test - Bioenergy Insight Magazine",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0VVM2NndkhWWGcyUWdLdGlocWVFQXhKR0RZWFJnaXFSUHZGUWd0Q19FWXl2N0FXYmlBRDF2ZW1YZkx1OHVsaldzZk5fZTJyYkh6S1FTRGo0NUpxMGdOVGlLekN3ZDl4VjZncnlQSldSQmRSb2dxQ29wTDNvTVRIQk5QekVOT1g0VWlaX3htaGl2ZHVYLWhRZVlIMG9TTk5LdnE4X1pn?oc=5",
       "country_context": "Cambodia",
-      "published": "2026-11-04T11:36:58+00:00",
+      "published": "2026-11-04T08:39:29+00:00",
       "query": "\"wood pellets\" \"power plant\" Cambodia",
       "classification": "unverified_news_signal"
     },
@@ -150,9 +150,9 @@
     {
       "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate - CELIOS — Center of Economic and Law Studies",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWRQbFVDWXE3WXBJSHBTc0JQUDdzTVRtckJuTHE1ZmNKUTVxajFLSnBWZW9wY3dlRkxvS3QyUUcxWE9QSlhYTjZhdXJmdE9ReENXcThVQ0JmazlaWE5GMkZDT08wNGIzbkFSRmpfZTJHUmM5TV8wejFGa2stTGxEcHRIaFRiclotendEdTRSQ3h3NW5UMXByaFAwcUNEUXFTQ2NpRVhKdldzVldWOWJXUg?oc=5",
-      "country_context": "Indonesia",
-      "published": "2026-10-23T03:37:48+00:00",
-      "query": "\"wood pellets\" \"power plant\" Indonesia",
+      "country_context": "Nepal",
+      "published": "2026-10-23T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Nepal",
       "classification": "unverified_news_signal"
     },
     {
@@ -190,9 +190,9 @@
     {
       "title": "Turkish producer ships 3,375 tonnes of wood pellets to EU and UK - Bioenergy Insight Magazine",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkNVSFVyZ2FfVW1GZzVJRHJ4bnpmZEFnSndfQXNzdWxSRW9ndDZLLUhvVUdrZzFLQ2w3dU8wTmUzWk9fRzV4UlYxaDF1WVBSaEw5WVc5SDlWUk1YMFJWc096OG9EWUNJc0F6RTVvWDlReWV5U1Y3Vm9UbjE3U05wSHB5TEE2U1laV2lwVWo0d1lZbkVpTHBKRy1lYVJyOXBncnc?oc=5",
-      "country": "Turkey",
+      "country_context": "Turkey",
       "published": "2026-09-24T07:00:00+00:00",
-      "query": "\"wood pellets\" import Turkey",
+      "query": "\"wood pellets\" \"power plant\" Turkey",
       "classification": "unverified_news_signal"
     },
     {
@@ -305,6 +305,14 @@
       "country_context": "Pakistan",
       "published": "2026-08-17T07:00:00+00:00",
       "query": "\"wood pellets\" \"power plant\" Pakistan",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Korean investors eye biomass gasification plant in Agusan Sur - Philippine Information Agency",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN29SUldxNWdwSldKT1pXbDZLM1VjV2M0dkx0WmJqMTJUcU1SbHJEbGd5SU5yNUgtLVE3TWRPbHJxYjZ1UENQT0RELV9vc1RLZlM4WWl5a2Y5YnRMVXE0YVlwYmtyS20tY3I0cTllcDcyMW9LX0hlZ1FWU1R6akpLNDBLbWF5SVFQY29MUWZJYw?oc=5",
+      "country_context": "Philippines",
+      "published": "2026-08-10T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Philippines",
       "classification": "unverified_news_signal"
     },
     {
@@ -630,9 +638,9 @@
     {
       "title": "Elridge Energy signs MoU with Berkana Power for 100,000 tonnes of palm kernel shells - Oils & Fats International",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVZ0YjhxYjFHYXdDaXh4cE82X1RJWkNNQXJZZzBLdFlTcFlsQnNleTRPNmh3VjRXeWdwcXVQNHBkY20yeWt0MjRCNUp6MlZXNU96QlhQRmVTSmI4WmtPd09FVXdQLWdtRDFFa0gzZHoydGhzTGNHUnZuQldqYzR0WTZMd2FuTlpWMDVYRUFNQ1RpaDBnZGw1ZFdiUm5vczVmU3hNNkF1dlFrc2J1ZHl3S2FOd1E2Wmtp?oc=5",
-      "country_context": "Malaysia",
+      "country_context": "Singapore",
       "published": "2026-02-20T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Malaysia",
+      "query": "\"wood pellets\" \"power plant\" Singapore",
       "classification": "unverified_news_signal"
     },
     {
@@ -1190,9 +1198,9 @@
     {
       "title": "Netherlands’ largest forest biomass plant canceled, forest advocates elated - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhYN3FGYVc4bkt5c2dCVUpDZm9wd3NnOHl3QU9vVTFiNXNvRFdLUlNGYnlnR1dmcE9JVmxhY2t6RjY4MlpvdFY0aFF6ZU93aVNyQ0w1Y3JLRTRpV1YzSUlkUWpQc3drR3BFWERjd18ybmR0NnRBTjB2eG44aXhRTlBDak1xdEZ6c0lUTmZyaWFCbkxkSDREdE9oNzhXdkhiNC1jSjQzWTJQZmtW0gGyAUFVX3lxTE5jZGV4dFVmNDZfcDJZSVBlUEhMZk5CNVVlalV0M3VKdmRYaHlrZ0xhVUJCLWtlOFJmMTlTRElWdDFkbGdKT2d5N3JHM1RxOUdCWmF5dlZOeE1qTHR5SGNjbXNtYmU0MjNSaWV4eWI3UDNJSXZFMnd0bVY1bVotX05fdHR3OWM3ZnJrSGxqTU1JT20yY1RjQTl4elFmaWFMbjgtRFN1eU5Cek9CY016TUxYVnc?oc=5",
-      "country_context": "Pakistan",
+      "country_context": "Mongolia",
       "published": "2025-03-27T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Pakistan",
+      "query": "\"wood pellets\" \"power plant\" Mongolia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1393,6 +1401,14 @@
       "country_context": "Singapore",
       "published": "2024-10-21T07:00:00+00:00",
       "query": "\"wood pellets\" \"power plant\" Singapore",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "The largest emitters in the UK꞉ annual review - ember-energy.org",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUx6VUZZekVuTlI3RDMzSmxjS08zRWtIeWhiVmhYNGluU2diUkVQRWo0bXhkelAxdzM0akwwRE9ZZUg3b1hXOVN3V0I3Q0MzeUZJNm8zRlNRQm1na01WUGFZZ2FDcGZYLTBzcWdwLWtnV3VmUjZCTmxOMEx2VGtyMDFxblVxbHdjZVpSTzh3cw?oc=5",
+      "country_context": "Kazakhstan",
+      "published": "2024-10-18T00:05:29+00:00",
+      "query": "\"wood pellets\" \"power plant\" Kazakhstan",
       "classification": "unverified_news_signal"
     },
     {
@@ -1796,7 +1812,7 @@
       "classification": "unverified_news_signal"
     },
     {
-      "title": "The EU banned Russian wood pellet imports; South Korea took them all - Mongabay",
+      "title": "The EU banned Russian wood pellet imports; South Korea took them all - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWdOcHludXpRaHh4R3djck80REJyRHhDRzVQMnJ6RlNFZVpsRkd3VlZRcjV6RHdXUzhTUzY0UmZpVFNRLVRhTzJIcHVQSnJHN0dlRy1uMjVoODl1ei1jWE5OMEFzSUluWjVERmNvSmNuY05CY05nRGxKbFlVV0xWY2x4LW1jdEpTWDkyaWlwbUtPUXFYbU1IdktURmFGeTMtV0xtcdIBqgFBVV95cUxOcXRfaDJ2d3ZoX0hWV0Z5Z3JDNGF5LUdfLUhjdURfT25qaXRhR0oyQnZFTkcwRVNUd0JZVGd1Y1BJQUVnTHdqZ3ZaWExKRVV2eFBCM2xpSkkwQ1pSdTFKeGFLeHI1NElOWmMtVmROQlN4RUZaNmNJUFFnc2RleHc4Nmw3aHNUSEZkUkpvdUNPMmxJREpoN3RIc1h2MFFvLXFoempubG5KSkcxdw?oc=5",
       "country_context": "Turkey",
       "published": "2023-01-24T08:00:00+00:00",
@@ -2142,9 +2158,9 @@
     {
       "title": "Almost No Heat Is Wasted at This Highly Efficient German CHP Facility - POWER Magazine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1ZMX3hybWpGOXNHNmFVM05KbkVVSWktbzBJWlpQczhIMkpVYkZEUEpDaXp0TEk2Q0N1ZzRFakFPbVBIbzNMeUxYelZJWVlOOXNpdExMWk1xLTdlWmluNlJsUUx1YU1taEZzM3p0TVk1MUlPXzBZZmF5ak9yQThkaVVyYkZzeGd5c2QwajVfZmFobjdSWGZtdDRBOA?oc=5",
-      "country_context": "Saudi Arabia",
+      "country_context": "India",
       "published": "2019-10-01T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Saudi Arabia",
+      "query": "\"wood pellets\" \"power plant\" India",
       "classification": "unverified_news_signal"
     },
     {
@@ -2438,9 +2454,9 @@
     {
       "title": "Rodenhuize Power Station - Power Technology",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reUhvMENidUtMY19UWF9EX21VOWZjX0oxVEFybTJ2MDM0WWV5NDhZMHcyY3RpdUNzdjFBM21GTHdGZHRCMHFmbnVveVdBNGp1WHVBX0pOb1NONElvTFFpcmVnNEsycXJqcnpaeGJucXNmZkxJc2c?oc=5",
-      "country_context": "Qatar",
+      "country_context": "Uzbekistan",
       "published": "2014-11-18T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Qatar",
+      "query": "\"wood pellets\" \"power plant\" Uzbekistan",
       "classification": "unverified_news_signal"
     },
     {
