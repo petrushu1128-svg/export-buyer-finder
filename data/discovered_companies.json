@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10T04:24:22.655854+00:00",
+  "updated_at": "2026-11-11T04:28:42.902124+00:00",
   "source": "Google News public RSS",
   "method": "public_news_candidate_extraction_v5.3",
   "disclaimer": "UNVERIFIED news mentions only. Country is search context, not confirmed HQ. No company size, actual pellet use, purchase intent, website, or email verified.",
   "stats": {
     "queries_attempted": 152,
-    "articles_checked": 431,
+    "articles_checked": 430,
     "candidate_records": 7,
     "feed_errors": 0
   },
