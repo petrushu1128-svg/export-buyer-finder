@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T02:38:43.969482+00:00",
+  "updated_at": "2026-11-11T02:37:31.819308+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
@@ -268,6 +268,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Japan’s biomass energy boom threatens further deforestation in Indonesia - WUSA9",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQldyVHVpUUg0ZHdBcjNqZE03UUdVc1RBckFYSDJhbFZacWloMTllSnNPSE1BNE5jQjl3TzQxTXFfaGVPOEZJVTEtaDgzMXh2UkNOemFCM0ZaM25vdXp3NE9Sd3ZNdFpNYng0VGc2ZjREUXpyM0l6S3psekdiUTJXVng5V0czTVJKQ1dmTVRsc1lHRnhMM2Z1R0RIV2NOMERlSUF3eXE0YlJob3FVR3BUOVMwLU9pZUJSUWQ5b084Um9FWU1zQlBKNlZBZUZlYXR2Snk4SDN6U2NJanRfTGc4VENuc3ZqUnRlS2IwSjNqRVRtSFJRcVp4UWF1dVdWV2c?oc=5",
+      "country_context": "Indonesia",
+      "published": "2026-09-13T07:00:00+00:00",
+      "query": "\"wood pellet\" \"importer\" Indonesia",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Best pork ribs in Singapore - epicure Magazine",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fbGpIMGNEOTA3NVdrTTNfcFRMTngtMW9ORThUNHdhcjI5bElGWG5CQmhQaHhxd0lQbmpjQ0UyR0JfVkRmV3V3MTNwd0NZd3l2ekZrWlFhUGFQLUtLR3VPU0Jn?oc=5",
       "country_context": "Singapore",
@@ -420,6 +428,14 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Drax cleared after investigation into sourcing of wood pellets - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzlQZ2hNSjdsYmNMR2s0MHNmT2YyYUhsRFVBcFFDb0VFZ2wtb0d6bFZ5SGt5WG1uc04wLUR2RllCLTNaaExUbGVuN2hkTUphU1hNMVJDeWlNYzcxX2ZvWFlBZjhfaXF2Z2dnTTNORGNzeDlWUmt6Zi1PNlFsTkVBSkU1WFJNSEU4UWZBTFhOMDlsWUxWLU9SY2VGSnNaaHBueWY4RHpWTnp1b2UxM3l3VUJwaw?oc=5",
+      "country_context": "India",
+      "published": "2026-06-18T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" India",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Dust Clouds Viet Nam’s Wood Pellet Boom - Pulitzer Center",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zOG5MeFVaN2N3RGRqMW1uQmJGXzV3NEVDU2FhTmZSbGNkb1FtcXROVjg5SXZUeTFmRV9iQnAwUWxwOVgyQ2EtUDV0YWRlMjhYVE1BNVhiZG5iSkdPdWZtdlZNZ2JwZmM0QUF4Sk5yaHRnU2EtTW1ZS2h2UjhtZw?oc=5",
       "country_context": "Vietnam",
@@ -463,7 +479,7 @@
       "title": "Erex announces plans to construct 112 MW biomass power plant in Japan - Biomass Magazine",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEUtY1FORjM3dWp0SUVzVnA1a0VuNGVGWlJiVnNzbGhxb3AtaWM1Y1NHRGxtc3duX28tYVJOUzlVT1Iyc1VHVEFSTU1ab2hGLWlzVnZKWFZuNW40MjBQcmhCTTNfTlh4UnNhR3lIa1d6T041bndOR2ZoVlp2YjVfWFRyS0lZTkxPQjh3NTQwRzRzWFk1N1BxQmJEZ2M0QXE1LTlBUnNiT0NCQQ?oc=5",
       "country_context": "Japan",
-      "published": "2026-05-27T23:09:35+00:00",
+      "published": "2026-05-27T07:00:00+00:00",
       "query": "\"wood pellets\" \"power plant\" Japan",
       "classification": "unverified_news_signal"
     },
@@ -1470,9 +1486,9 @@
     {
       "title": "Biomass power station produced four times emissions of UK coal plant, says report - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQlozeDRNYVg3WlBROHNwNmNSU2plYURnRHVtNU1xU20yWks1UXZ4T2dvWHQ5Mm1yQmxEN3dmcG1BY3JiS2N4dk1OY2kyT0tBb1EzbWRuQ2V6WFl5ZWJLQWFWQlFRUGYxSW1HZ21YNG5xUTVwd0NaOFdfQndRbWdtSG1iT05PWGhGeFozd1J2TTFaNk42QnU2eTdfdk56SGdRN2M1VzNIcnNmci1pQm5wMHJCVjRCNW9GdUg0Yi1fUEhsYkxCR2o2ckZ4R3NPVUpVTXhVTGwyaw?oc=5",
-      "country_context": "Sri Lanka",
+      "country_context": "Jordan",
       "published": "2024-08-09T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Sri Lanka",
+      "query": "\"wood pellets\" \"power plant\" Jordan",
       "classification": "unverified_news_signal"
     },
     {
@@ -2158,9 +2174,9 @@
     {
       "title": "Almost No Heat Is Wasted at This Highly Efficient German CHP Facility - POWER Magazine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1ZMX3hybWpGOXNHNmFVM05KbkVVSWktbzBJWlpQczhIMkpVYkZEUEpDaXp0TEk2Q0N1ZzRFakFPbVBIbzNMeUxYelZJWVlOOXNpdExMWk1xLTdlWmluNlJsUUx1YU1taEZzM3p0TVk1MUlPXzBZZmF5ak9yQThkaVVyYkZzeGd5c2QwajVfZmFobjdSWGZtdDRBOA?oc=5",
-      "country_context": "India",
+      "country_context": "Saudi Arabia",
       "published": "2019-10-01T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" India",
+      "query": "\"wood pellets\" \"power plant\" Saudi Arabia",
       "classification": "unverified_news_signal"
     },
     {
