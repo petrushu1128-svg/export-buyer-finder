@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T02:37:05.413711+00:00",
+  "updated_at": "2026-11-14T02:37:40.680104+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
@@ -23,7 +23,7 @@
       "title": "Drax power plant strikes £20bn deal to host one of UK's largest AI data centres - Engineering and Technology Magazine",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjVCLWFKQlg0eExJQXA3Y0tvNjBSSWtJS0tTeW8zbHdOV2lSN0ttYkszaFBfR2NnbXpmbGVuRG5JcnQ2OEdyeUpDUnkyR0phREpSSVl5VVVPOWlVQUVManZSSGg5eXdhOF9IWWRMWkZ1bkExbzZOWWwwQmVWMnZpcml1VVZnVHZNRkhSWnBXVQ?oc=5",
       "country_context": "Qatar",
-      "published": "2026-11-04T12:21:07+00:00",
+      "published": "2026-11-04T13:28:19+00:00",
       "query": "\"wood pellets\" \"power plant\" Qatar",
       "classification": "unverified_news_signal"
     },
@@ -150,9 +150,9 @@
     {
       "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate - CELIOS — Center of Economic and Law Studies",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWRQbFVDWXE3WXBJSHBTc0JQUDdzTVRtckJuTHE1ZmNKUTVxajFLSnBWZW9wY3dlRkxvS3QyUUcxWE9QSlhYTjZhdXJmdE9ReENXcThVQ0JmazlaWE5GMkZDT08wNGIzbkFSRmpfZTJHUmM5TV8wejFGa2stTGxEcHRIaFRiclotendEdTRSQ3h3NW5UMXByaFAwcUNEUXFTQ2NpRVhKdldzVldWOWJXUg?oc=5",
-      "country_context": "Nepal",
+      "country_context": "Indonesia",
       "published": "2026-10-23T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Nepal",
+      "query": "\"wood pellets\" \"power plant\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -430,9 +430,9 @@
     {
       "title": "Drax cleared after investigation into sourcing of wood pellets - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzlQZ2hNSjdsYmNMR2s0MHNmT2YyYUhsRFVBcFFDb0VFZ2wtb0d6bFZ5SGt5WG1uc04wLUR2RllCLTNaaExUbGVuN2hkTUphU1hNMVJDeWlNYzcxX2ZvWFlBZjhfaXF2Z2dnTTNORGNzeDlWUmt6Zi1PNlFsTkVBSkU1WFJNSEU4UWZBTFhOMDlsWUxWLU9SY2VGSnNaaHBueWY4RHpWTnp1b2UxM3l3VUJwaw?oc=5",
-      "country_context": "Jordan",
+      "country_context": "Bahrain",
       "published": "2026-06-18T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Jordan",
+      "query": "\"wood pellets\" \"power plant\" Bahrain",
       "classification": "unverified_news_signal"
     },
     {
@@ -849,6 +849,14 @@
       "country": "South Korea",
       "published": "2025-11-09T08:00:00+00:00",
       "query": "\"wood pellet\" procurement South Korea",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Drax still burning 250-year-old trees sourced from forests in Canada, experts say - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXFURmU5aEd1RzNfVXRXa1hrN20xbFRKRTNpb21INzc5cnN0ejFFU0Z0WEdHOTE2UU5pSnRTVk9OcDBCdHV5dmZFVEdMV05zNWg0OWdFRmNYU2gwQUF5akg0VTlwSjNkb2w5Yk85TVJwelV5Nk5qenA1cTRXYVUwMWMxNEdsd0lLRWY4ZFJRWWE3aUdUeEtwY1B0UjZBNXdsQllpRXpFU0hsYnYyd2NtdUxkZTQ2QXNMei12WkQ2ZG9EU1JUWDlXMg?oc=5",
+      "country_context": "Bahrain",
+      "published": "2025-11-09T08:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Bahrain",
       "classification": "unverified_news_signal"
     },
     {
@@ -1286,9 +1294,9 @@
     {
       "title": "UK halves subsidies for Drax and says it must use 100% sustainable wood - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTVSREp4ZG5hOGRvMTMzMTdMeXVGS2ZoRk5ZYjNWblgwbXpMbk1rck1DQVRmTlBvSFhIQnBGc2gzV0JaOW1jUThTai1rZGdTWWQydE1raFBMT2RhRXFoNWJ0cWdXVUdqc05CbmVlQ09WanFWSWk5TE9ha3NDdU42NmFZN1ZFRUx4anZIWm5TdEhZYlZ6cUpOdExFY0hCT3U5?oc=5",
-      "country_context": "Jordan",
+      "country_context": "Bahrain",
       "published": "2025-02-10T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Jordan",
+      "query": "\"wood pellets\" \"power plant\" Bahrain",
       "classification": "unverified_news_signal"
     },
     {
@@ -1569,6 +1577,14 @@
       "country": "Indonesia",
       "published": "2024-07-06T07:00:00+00:00",
       "query": "\"wood pellet\" procurement Indonesia",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Belledune likely to survive the end of coal in 2030, N.B. Power hearing told - CBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGk4THRRZ2YtNVQ2VlFJcFVLZkhTWTB0VExieTRXYm1aNWRoZzVGX0k1T1EtRTJLYmRpV3hReHJ4cFY5X0pGU3ZXZXJvT1A2SGFFdmlYLWFIWnl6MUdIRkluMmM3VUdjYmxrTmNQVTNoUUtwdGNBWHM0NTBUXzFkTk5UNmthQk4xMm9tUXI1TjFmNXc?oc=5",
+      "country_context": "Oman",
+      "published": "2024-06-27T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Oman",
       "classification": "unverified_news_signal"
     },
     {
@@ -1924,19 +1940,19 @@
       "classification": "unverified_news_signal"
     },
     {
-      "title": "How Banned Russian and Belarusian Wood is Sneaked Into the EU - VSquare.org",
+      "title": "How Banned Russian and Belarusian Wood is Sneaked Into the EU - VSquare",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUS1lZUM3TG83Y0J3WXlqNk1Jb1prWkxuWktVYnRZX256SEhXaWZhejNtM2lYUktSaTZiVElBSUwzSHBSa00tU0pwSzQycktSRHpkX1FmdXpoQTRBVWc1dHhMTGZKcG00aVZmeHN5VFBkSjNSTmFFaEFCem5qal8zX2tMUGpsUmRQY0E?oc=5",
-      "country": "Kazakhstan",
+      "country_context": "Kazakhstan",
       "published": "2022-12-21T08:00:00+00:00",
-      "query": "\"wood pellets\" import Kazakhstan",
+      "query": "\"wood pellets\" \"buy\" Kazakhstan",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Traders Are Sneaking Banned Russian and Belarusian Wood Into the EU By Pretending It’s From Central Asia - Organized Crime and Corruption Reporting Project | OCCRP",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3NHN1lZbnV3TWJ2dWVrYUpQdmR2SjFpNEphNWJRWnQ3dWY2TVNiUFpldkJzeVE2TnhteUNwaV9DcUVJUjVYYS1rMkNzQ3V1MEVIbEdpVWxaQm03YUNrRXZXd1BPdXEyZUdFTEFjUGVCMW1jTmZ4N3k0emx4T0FJMmVubFhDMDRrdDlVeDlnSEZoMjI2ZUszSXEzVjhVNFp2MEswOGF3WC1SZmtSUGRvdFQ1dk9XNS1wLU1rY3lNZU5uUHpISFBleEhkdUZJOU9uLUJVSDVEU1Y0UQ?oc=5",
-      "country_context": "Kazakhstan",
+      "country_context": "China",
       "published": "2022-12-20T08:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" Kazakhstan",
+      "query": "\"wood pellets\" \"buy\" China",
       "classification": "unverified_news_signal"
     },
     {
@@ -2190,9 +2206,9 @@
     {
       "title": "Drax to double wood pellet production with biomass firm purchase - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUpjSWU5V1JfX0V4WW9VQ202X2xsT2tHQkJWVGlQenFuWGNodmR1dFl1dUdldk4zQlBJb0FjcmJYTVdERGlpekZ6QUpqYktLWHg1c3pXUGplZ0Jzc0hFczdDdHJxMTdvNExkRzQxWHpnLXBzZ3JXUy1ZeHFfWkpsb0xEOGx3YzlYUzFGVlNiaW5sa3l2djV0YkdEWGZBTnIwdEh4LW9seWFrMUltYS1MNGt0Zw?oc=5",
-      "country_context": "Philippines",
+      "country_context": "Bahrain",
       "published": "2021-03-31T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Philippines",
+      "query": "\"wood pellets\" \"power plant\" Bahrain",
       "classification": "unverified_news_signal"
     },
     {
@@ -2345,6 +2361,14 @@
       "country_context": "United Arab Emirates",
       "published": "2018-10-31T17:53:53+00:00",
       "query": "\"wood pellets\" \"buy\" United Arab Emirates",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Qatar's MDF Market Report 2026 - Prices, Size, Forecast, and Companies - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3A1c2JSVUo0SGJwaTRaV3M1S1ZUeG4tZ1h5dDBaTC1IUm1tT0psNFpSME90b3RJRlRjUEhkc0NWMDBMOWJvQ0laN2F5SHN6OV9qYmwxNTR5aXdLbllTTUMySFpXRjNNc1FPcFI2Q1ZTeHROVzFVOU80a0xCOHBsZjVpaDJxRGZ5M0xEZ2dJdnY2Wnc1?oc=5",
+      "country_context": "Qatar",
+      "published": "2018-10-25T08:30:47+00:00",
+      "query": "\"wood pellets\" \"buy\" Qatar",
       "classification": "unverified_news_signal"
     },
     {
