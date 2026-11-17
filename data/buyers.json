@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-16T02:44:22.217932+00:00",
+  "updated_at": "2026-11-17T02:43:17.430643+00:00",
   "source": "Company suffix matches in public news headlines",
   "disclaimer": "Unverified mentions, not confirmed importers or wood-pellet purchasers. Country is search context.",
   "items": [
+    {
+      "company_name": "K-One Corp",
+      "country_context": "China",
+      "classification": "unverified_company_mention",
+      "official_website": null,
+      "public_purchasing_email": null,
+      "shipment_verified": false,
+      "shipment_evidence_url": null,
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHE1MWJSOF9OZTdWNzZLZTdIMEl0UWh1aWlSd3dyandIeUJMSUEyVzVpZkdPakluZDJ5Y2NVQ09sSUEyX2l4RUYxUlM5dXRBUVhYZGh3QTQ1dE4xYXhCY3ZiVmk5NGZRM2w1WXQwOTBPZDNMQUowRmJVeE0zMG1ZT1ZUaWJfa2dYSWVMeGxpbTUxWkFBTTVTcV9OTjltMG1GbEFBd0R2LWRGSmZ6QnoxWlNWZEgzZ0tuckg4VFh4S081M0dBRkt4b3I2cW0?oc=5"
+      ]
+    },
     {
       "company_name": "Hanwa Co., Ltd",
       "country_context": "Indonesia",
