@@ -1,8 +1,24 @@
 {
-  "updated_at": "2026-11-17T02:43:17.430643+00:00",
+  "updated_at": "2026-11-18T02:42:09.862825+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
+    {
+      "title": "Forestry enterprises have begun offering people the option to buy pellets online - Наша Ніва",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EaHZvSFhhcjdEMXYtUkJUVXY3a0tjRnUzRUlGa21sTzMtRVFXbVh2R3NmalJ0ZW1jLXhDMmFKU09BdEU3REHSAUtBVV95cUxPQzU5R0JDd0tQYzNJdnp5OXNCckhaZXh3MGpKMmRXX2ZIcVdLSUY4elhFZWhNLXIzN3NyREdfcDQzVFVtWWJuWEZuSk0?oc=5",
+      "country_context": "Philippines",
+      "published": "2026-11-17T15:14:16+00:00",
+      "query": "\"wood pellets\" \"buy\" Philippines",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "🎁 Freebies Up for Grabs in Allentown Right Now - NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblE0UERRdnZOMlBFQndQUzB6RzJ4dnU1THRQdmVKWUZSTEVldFJpSC1aZGFVbnFYOGdZY1hSVll3Y0JZdnQ1NzJCQThIYVFTZEptZjNBcXNSakl1MFRtb2hFTi0weVdmOFpqRzB3NjVHcVdaQ2cxX0xCMm5fVzhrblVOTUVndXRlVlRQWVg1MU5QVlB2eThnWVNqTHA3YnVkSm9aVnJfTVFlWXZCTGVuVy1FajAydHRMQU40?oc=5",
+      "country_context": "Turkey",
+      "published": "2026-11-17T02:23:53+00:00",
+      "query": "\"wood pellets\" \"buy\" Turkey",
+      "classification": "unverified_news_signal"
+    },
     {
       "title": "Thinking About Buying a Traeger Grill? We Tested Every Series - Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40R3hkdzVDWmZEMWR1eWxZZE03WXR5dlg3ZU4wV2lTVE9nQjFONUJMdHZyeHRvRllydkdhTE41MDJaQU9peEl6TzRpV0Q5WDMtQUktcEE2dlJtVW1UODN6aWROMl9tdw?oc=5",
@@ -38,9 +54,9 @@
     {
       "title": "Japan’s erex reaches 30% wood pellet co-firing in third Vietnam test - Bioenergy Insight Magazine",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0VVM2NndkhWWGcyUWdLdGlocWVFQXhKR0RZWFJnaXFSUHZGUWd0Q19FWXl2N0FXYmlBRDF2ZW1YZkx1OHVsaldzZk5fZTJyYkh6S1FTRGo0NUpxMGdOVGlLekN3ZDl4VjZncnlQSldSQmRSb2dxQ29wTDNvTVRIQk5QekVOT1g0VWlaX3htaGl2ZHVYLWhRZVlIMG9TTk5LdnE4X1pn?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "Cambodia",
       "published": "2026-11-04T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Vietnam",
+      "query": "\"wood pellets\" \"power plant\" Cambodia",
       "classification": "unverified_news_signal"
     },
     {
@@ -62,17 +78,17 @@
     {
       "title": "Japan's erex completes third biomass co-firing in Vietnam - Vietnam Investment Review - VIR",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlc0eVVCSUZZWUs5eXg0dllqNzY2YnpHSUdPLWJ4cC1nb3Atc19iZHVDU1JoeENUTEhBNWxoQ2swYmxXa1J6ZWhyLVBwZDRvNFJydnZXSXJOLS01dGVtNnpkbzN1Mk9VSjhIR2RPWTJaRnYycEsyc3p1V1pKN3Q5aHA0S3FHd1MydUJZZS0tU0w?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "Cambodia",
       "published": "2026-11-03T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Vietnam",
+      "query": "\"wood pellets\" \"power plant\" Cambodia",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Biomass Pellets Market Size, Share, Trends 2036 - Future Market Insights",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sV1VzOTdORkF0b1kySFNiV0NfNTh2ZE1hODM0OXItYV9vMGVvQWRuRFl1bm1XRDNfUVpndHRfcjBHYWpHNXBSU1psdGx2RVEwVzU5LUNQdVM4UEVjeThQQU5Kdkx1cmlmTDVaZF9CVGxvbTJPdlE?oc=5",
-      "country_context": "South Korea",
+      "country_context": "India",
       "published": "2026-11-03T08:00:00+00:00",
-      "query": "\"wood pellets\" \"tender\" South Korea",
+      "query": "\"wood pellets\" \"buy\" India",
       "classification": "unverified_news_signal"
     },
     {
@@ -158,9 +174,9 @@
     {
       "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate - CELIOS — Center of Economic and Law Studies",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWRQbFVDWXE3WXBJSHBTc0JQUDdzTVRtckJuTHE1ZmNKUTVxajFLSnBWZW9wY3dlRkxvS3QyUUcxWE9QSlhYTjZhdXJmdE9ReENXcThVQ0JmazlaWE5GMkZDT08wNGIzbkFSRmpfZTJHUmM5TV8wejFGa2stTGxEcHRIaFRiclotendEdTRSQ3h3NW5UMXByaFAwcUNEUXFTQ2NpRVhKdldzVldWOWJXUg?oc=5",
-      "country_context": "Nepal",
+      "country_context": "Indonesia",
       "published": "2026-10-23T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Nepal",
+      "query": "\"wood pellets\" \"power plant\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -222,9 +238,9 @@
     {
       "title": "New Brunswick coal-fired generating station switching to wood pellets - Toronto Star",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWGNROXE2NWU1R2JCLUNzNm9CWkRPeGdkNExHRHhicExHdzh3SWxGOXotX2Fqd0lydXFlbm1wM3hwRnpfMi1TNkVuZ1VORGVwdDBpRGZoc19nemdUT0lJUXpIUUhialpUM1ZCOXg1a3BPSUFOZVhHNjBaczhRcERFTUt6RnNadnUzYkt4d1RJMkJVbzg4ZDlYcWF1bzBqN1FWTWVSNjRYUnlnQVNMWHJmaEVLdEZkQVpmMWZreld3d25WektXSzIwcEtYcUlZNnFqekRLLWhRM2tDQl91MzNZRGxwT0Jmb1ZKS3NidWFlR3RDakxwcFZoQkU2UHlkYVczeHZNem85SG1WLUU?oc=5",
-      "country_context": "Bahrain",
+      "country_context": "Nepal",
       "published": "2026-09-17T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Bahrain",
+      "query": "\"wood pellets\" \"power plant\" Nepal",
       "classification": "unverified_news_signal"
     },
     {
@@ -574,9 +590,9 @@
     {
       "title": "Letter Calling for Financial Institutions to Reconsider Biomass Investments - Mighty Earth",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFhIT3JmdVF0bkk1Yl9SZDFyTFp5ZDVmQ0RUYmQyUlFMWFFpRktIdTlJT0hjZVQ3RXlRNDRxalg5bG8wM2VNY0FGNWgtVVJMNnAyR3VQa3hfQmd1TFhPRkxrTmRFSWZmbFh2Q245a0lWdjNybU9yUGpDMVpwVmZFOTBOdnVzQ0lnbXpieVpMOEk3dzhFZU1iSzE2THNPWGlYekpMU0tTRGhWLUI2?oc=5",
-      "country_context": "Japan",
+      "country_context": "Indonesia",
       "published": "2026-04-20T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Japan",
+      "query": "\"wood pellets\" \"power plant\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -670,9 +686,9 @@
     {
       "title": "Elridge Energy signs MoU with Berkana Power for 100,000 tonnes of palm kernel shells - Oils & Fats International",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVZ0YjhxYjFHYXdDaXh4cE82X1RJWkNNQXJZZzBLdFlTcFlsQnNleTRPNmh3VjRXeWdwcXVQNHBkY20yeWt0MjRCNUp6MlZXNU96QlhQRmVTSmI4WmtPd09FVXdQLWdtRDFFa0gzZHoydGhzTGNHUnZuQldqYzR0WTZMd2FuTlpWMDVYRUFNQ1RpaDBnZGw1ZFdiUm5vczVmU3hNNkF1dlFrc2J1ZHl3S2FOd1E2Wmtp?oc=5",
-      "country_context": "Malaysia",
+      "country_context": "Singapore",
       "published": "2026-02-20T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Malaysia",
+      "query": "\"wood pellets\" \"power plant\" Singapore",
       "classification": "unverified_news_signal"
     },
     {
@@ -710,25 +726,25 @@
     {
       "title": "2026 Global Pellet Markets Report: Strong Historical Growth With Significant Changes Coming - Canadian Biomass Magazine",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3NjUzR4NC1COHJvaTlhcjctU3FfYUtCbHhpTWJ0LUVGY3NhbngzaXhQOUNxRGpDbFM3bjh5YW9vdzVqWE85QTRGZUkyVHk1cHozTzNCLWZtYURleFRQYVNHd1hCZlFkbEk3V3VGQWdZTGdraFNmVDFkOVpwdjNrT3NucGViRTBIazFhTHA4SWhhY2pfU2pRX3IyeTQ5R1FrVUVwLVFoQ2R4T1E3OWVtOGRaVUl4c2JFOE1YaFZWN09IZmtpSm5EdGR3?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "Malaysia",
       "published": "2026-01-29T08:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" Vietnam",
+      "query": "\"wood pellet\" \"importer\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Are Wood Pellets Worth Billions In Subsidies? Drax Faces A Reckoning - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGt6d2NaU1I1SE1fYktCUzRPNC1xbDhvcllMcTNfd0tQSHBfYzFNVU9OSXkwOTNaNlBsT2M4eWdZdWgtcFc4MGxPN1ZYRVhYY3dmWnlsejF0T3duQUo3ZFd1UFEzcXBqbHNNb0RYVXZTUmlrTF9fbWZEUnhaeFF2RXlWVUl1b3BZWGJUalhLNGNqbzVlSzRHZ2dtemJ2NEtPbmVHaEJ4eXhPZEpnckNCakRfUkdESTNBRHZYZHl2SjE?oc=5",
-      "country_context": "India",
+      "country_context": "Qatar",
       "published": "2026-01-28T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" India",
+      "query": "\"wood pellets\" \"power plant\" Qatar",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Drax hit as Japan pivots away from burning wood pellets for energy - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpqRTRaZjF0ZmZ4QXNDM1BCYnpJZDdEeWlmMVN6bmRZQVVSZW50dzZXYzhmTEQ3aXVuM2loQ1BtRzJnUXFSVm81M0ttaUNZaWR6ODVTejY3aWlwb1l0Y0J2RDVaSW1PUjZ0SU1OX1A0UGxfY3RzMS1DaGg2Xy04ak5FNHg?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "United Arab Emirates",
       "published": "2026-01-27T08:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" Vietnam",
+      "query": "\"wood pellet\" \"importer\" United Arab Emirates",
       "classification": "unverified_news_signal"
     },
     {
@@ -790,9 +806,9 @@
     {
       "title": "Singapore’s Tuas Power to shift Tembusu plant to full biomass by 2028 - Asian Business Review",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmp5am13XzFOUzdYcTctM25lMXFIMmF5NGZSNlNJV2ZKTlg2MmJzZEtFRzRjLXgteS1heUFnSl9GZGZ6alRJdWJibVdIY29Ud2xTU3FraTN0cDZIX0hjV0tCc3B5V2RWam9ZQUU3eTlrNl9aU09vTmZBNkE2dzNRY3RWTkQ5MUZrMkFPeHpOUUlBLWZ6TXlLXzRnMjBDTXhBMXhj?oc=5",
-      "country_context": "Malaysia",
+      "country_context": "Singapore",
       "published": "2025-12-05T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Malaysia",
+      "query": "\"wood pellets\" \"power plant\" Singapore",
       "classification": "unverified_news_signal"
     },
     {
@@ -934,9 +950,9 @@
     {
       "title": "Biomass Fuel Market: Wood Pellets & PKS Outlook 2026–2034 - Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1pqMkFGcFpabm9SUkdrTWh0NnVzanZqV2MyNEZRZlZwVTdpb2p1YU9sVTdGOWJkMnhZOXhxTTJ3cS12SFRRUGdkLUFfR0FyNGZuTjIxOHZHbnlxNHNoZjZSWDh5UDZjYy1JdXZsTGVjZHRtOEd4U0pNMG5TVm8temJBS3ZrQ2NpdjVDMkRfZkNIWFhqd1oxR0ZzdG5xckNfbllNcTRNSV8?oc=5",
-      "country_context": "Malaysia",
+      "country_context": "Indonesia",
       "published": "2025-10-28T11:23:51+00:00",
-      "query": "\"wood pellets\" \"power plant\" Malaysia",
+      "query": "\"wood pellets\" \"buy\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -944,7 +960,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblZWQTdUZFhMejBEYTFTS3FHX1JuYkFac0U4bTMxVko3WGhVTWpmcHlZcFRlZzdHY0VJbTl2UjVpY0J0RmNqSVREbC00V1dVVW1sRW9CdXFXaEtyZFFhb0xVUnNGMU9Hc0NfRGFKTTFnd3N5WEZJMkM4dmU5cXBZQkc4Q3pUaUdUeWVkWHJrMWJIMVhiR3hqQkNCTkxjWWltMUxIMA?oc=5",
       "country_context": "China",
       "published": "2025-10-28T07:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" China",
+      "query": "\"wood pellets\" \"power plant\" China",
       "classification": "unverified_news_signal"
     },
     {
@@ -998,9 +1014,9 @@
     {
       "title": "Japan's Renova switches on 50-MW biomass power plant in Saga - Renewables Now",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFo4WXhqWkpqMmRwSm53YVBGc3RFM00yTHNLcm5EbVQ0SFU2T05YZEFFZTBDWjM4MFJsOU02QVZJYmw2VWthSFZ3NU85QjZacnduaWVNamJPbnNTMVdFNTRDQ0RnY1hvTkZ6elJRMkk3LU5OZUNsaFZIYjFjMEhVVWZ2NGxPYVNyaGlpSTVwWDNxWjQxYm56VnJGWWZudGJU?oc=5",
-      "country_context": "Kuwait",
+      "country_context": "Pakistan",
       "published": "2025-10-01T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Kuwait",
+      "query": "\"wood pellets\" \"power plant\" Pakistan",
       "classification": "unverified_news_signal"
     },
     {
@@ -1046,9 +1062,9 @@
     {
       "title": "Drax’s shares plunge as City watchdog investigates sourcing of wood pellets - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW0zNFhYWWNUZ2NtOHJmcTRlWTZ3NjZrUVA0Zk5FcEpmekJkWks3SHpWSjJnVGdVOHUxSHNsMXM3LTdZRWE1aEFJYzhMaUc3T05fRTR6cmZwMlpwVHVnZjgxSmRMc1JidUprRWhfdlpmRUs5dk1CRXYzam9SQnAxMzhpbGxqWlJNLUpMWUZiRXNJVG12UXBjdUpCQTFFZVRuT1cyVmFFVktNY1F3SHYwaDh2eGZjY2NNN0lMZzZKMDU5a3RXWkMw?oc=5",
-      "country_context": "Saudi Arabia",
+      "country_context": "Bahrain",
       "published": "2025-08-28T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Saudi Arabia",
+      "query": "\"wood pellets\" \"power plant\" Bahrain",
       "classification": "unverified_news_signal"
     },
     {
@@ -1086,33 +1102,33 @@
     {
       "title": "Mieco pegs K-One wood pellet supply at RM100m a year - The Malaysian Reserve",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXRTSUQ5ZEpaUE82VlliZ2ttRDhULU93LXZ0bWtLM3ZiXzZzMkhYNkdlTllDVnlqQzl0RUNlYk1xWmpYc3lHeHdQaW5sSUR4UjJQRHp3ZFFfTHg0U0dMWl95WG96SzZaSzAxV0tqWUhQSFUtV0lBaUd0ZmF4ZGMwdGE3Ymx1dEJ6TmtvY0pmYVV5LTZnbjV3dmtZa3E?oc=5",
-      "country_context": "Philippines",
+      "country_context": "Malaysia",
       "published": "2025-08-12T07:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" Philippines",
+      "query": "\"wood pellet\" \"importer\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Mieco enters biomass fuel market via partnership with South Korean wood pellet importer - The Edge Malaysia",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6aWFpRHM2TGRoWHJNVmZfR194TzRvcGR4VjVNZmdlTG5BUnVPaWtyWHo0aW9rTEVEekVrdU03VDRPRDdieTlfY1Y2OHdlblhF?oc=5",
-      "country_context": "Bahrain",
+      "country_context": "Malaysia",
       "published": "2025-08-08T07:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" Bahrain",
+      "query": "\"wood pellet\" \"importer\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Mieco Chipboard's unit, K-One Corp ink MoU for wood pellet supply deal - The Star",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHE1MWJSOF9OZTdWNzZLZTdIMEl0UWh1aWlSd3dyandIeUJMSUEyVzVpZkdPakluZDJ5Y2NVQ09sSUEyX2l4RUYxUlM5dXRBUVhYZGh3QTQ1dE4xYXhCY3ZiVmk5NGZRM2w1WXQwOTBPZDNMQUowRmJVeE0zMG1ZT1ZUaWJfa2dYSWVMeGxpbTUxWkFBTTVTcV9OTjltMG1GbEFBd0R2LWRGSmZ6QnoxWlNWZEgzZ0tuckg4VFh4S081M0dBRkt4b3I2cW0?oc=5",
-      "country_context": "China",
+      "country_context": "Malaysia",
       "published": "2025-08-08T07:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" China",
+      "query": "\"wood pellet\" \"importer\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
       "title": "PIE Industrial, SkyWorld, NexG, Classita, Hong Seng, Able Global, Favelle Favco, Vestland, Berjaya Assets, Sentoria, Bina Puri, Mieco - The Edge Malaysia",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVNGpCSkZZa2VJd2FEbkxDU19uRTFYUjZuQnpqR1Z4cEg1bzQ2MHFCbFYwQ3BBZHctWlB3YTR5bUZERDFBWWtfM1Y0RmJkZzh5?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "Malaysia",
       "published": "2025-08-08T07:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" Vietnam",
+      "query": "\"wood pellet\" \"importer\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1158,9 +1174,9 @@
     {
       "title": "Vietnam’s wood pellet industry needs production standardization to meet global demand: experts - Theinvestor",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUpEUGpfV0E5Snk0NDhRZFF5ME9LMlVTV0VLMUNIOTVUcjFGY2hDYzhUVy1iTTNTdm1waGVMOUpSR1I3T2ZaVGJDZG1pTnNaY0tiLW1YWTg0T1RNWFFrQW9JSHNtb043NHN5RHRtejBPZHFOT2dFV0Mtd01PTm5NenZpLW5PX043cWhUaWZSeFl3Z2tHSGJHVkdIdTRIRXQ2aE1BSi1hZGw5RkFiTTMtYUFfZHladTd5eXVHZXVnel80X3ZlbUE?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "Indonesia",
       "published": "2025-07-15T07:00:00+00:00",
-      "query": "\"wood pellets\" \"tender\" Vietnam",
+      "query": "\"wood pellets\" \"tender\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1382,9 +1398,9 @@
     {
       "title": "Indonesian forests put at risk by South Korean and Japanese biomass subsidies - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQajJsQndnd2psZmgyWFFKVUpDdnMzTGRScFhWd19aNU5yckNmZzYyZ01XVnlhTTRWX05mTXpjWVRfZ1RxRVotYllLM3cyS0tmWlpWNVFveXZjV1NNN1VmWExMVDdGdFA1UkRFM01FN3plVWV4Y2YxTTBnNEZaZHdSTUZQTGRING8wTTBKb1NhOEkxNXdZT1BGclU1ZTU2aDlNNGVUcElqWmZ4LXFqV0tENndn0gG3AUFVX3lxTE8wcndDTGRRYnNubXY2d1k4Q2hxZnpmS1ViUHhBMGVOQmJtWlcyM1FJZ1liNERDb0Q4TlZSMGd3QnJZc0tYbk44Tm1zM19HYXBYSUJjck5XSXpqUm9jajhLU29fV24wZ2VwVUtOaW1fbENBUlRKTXIxc0VPc3hSVzJhVXgyVXJtd0JVWU82aWlQSWk1Y2dCZTVFMHpaQ0tudDNoS2xvb1BuTi1XR0VVSTlCblE2d0VnNA?oc=5",
-      "country_context": "Japan",
+      "country_context": "Indonesia",
       "published": "2024-12-12T08:00:00+00:00",
-      "query": "\"wood pellet\" \"importer\" Japan",
+      "query": "\"wood pellets\" \"power plant\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1478,9 +1494,9 @@
     {
       "title": "Revealed: Biomass firm poised to clear Bornean rainforest for dubious ‘green’ energy - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3BCOWRzZzFTUnd6TlUwdDJ4Rnd1WE1Bb3F0b3hZN0I0X24wZGMxRFJUOVpXOFR5ZnlwUGMzeEV6TTZvalp0T2gxcWx4ZkR4Ry1xbE1MTkdWRTFJQmFIbFpwc3Y0MDN6U1JscTFNSnd6UkdibnZxa3QxMHdJT2dnTDg4WkVHZ2dvUkhrTzRwbXc2MDJLYTBQb3BJYThQbDh0V09odG1vWmlvd01wM09uN3hYemNWeVJIRVpv0gHAAUFVX3lxTE0xcm90VzdyQVNRaHRJQ1IzVGFybGhJZjNUWnFtN1dDMW5fY0stLTQyUGQxRi1SdVZBbmh1TjdueTZ4T3pVSlFJS1p0TE9tVHhDVjhVRG9FZWVyeFFHZFMzY3A3MmRHSnhzMWt2U04tVUZzQnU1NXMzN3Rrc3RXZEVYQUk4b0FnR1JiczhBM3RxT24zUFhTRWRhWklKNDZTMEw2WkgtUlhodWhsUHhYSThyVFAyczBva3h0TjMzTDRzLQ?oc=5",
-      "country_context": "Indonesia",
+      "country_context": "Singapore",
       "published": "2024-10-21T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Indonesia",
+      "query": "\"wood pellets\" \"power plant\" Singapore",
       "classification": "unverified_news_signal"
     },
     {
@@ -1566,17 +1582,17 @@
     {
       "title": "Biomass power station produced four times emissions of UK coal plant, says report - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQlozeDRNYVg3WlBROHNwNmNSU2plYURnRHVtNU1xU20yWks1UXZ4T2dvWHQ5Mm1yQmxEN3dmcG1BY3JiS2N4dk1OY2kyT0tBb1EzbWRuQ2V6WFl5ZWJLQWFWQlFRUGYxSW1HZ21YNG5xUTVwd0NaOFdfQndRbWdtSG1iT05PWGhGeFozd1J2TTFaNk42QnU2eTdfdk56SGdRN2M1VzNIcnNmci1pQm5wMHJCVjRCNW9GdUg0Yi1fUEhsYkxCR2o2ckZ4R3NPVUpVTXhVTGwyaw?oc=5",
-      "country_context": "Jordan",
+      "country_context": "Saudi Arabia",
       "published": "2024-08-09T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Jordan",
+      "query": "\"wood pellets\" \"power plant\" Saudi Arabia",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Biomass power grows in Japan despite new understanding of climate risks - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzJFZDVjb2hNM1VaSDR5M2x1SHRBaXpTX0xuZk9feXEydnVDY2RMbS1BaEp2bVhXQkxHdERWeFJuc0cyelJCN21yN2FRNTBJNWNzSkNiSW9Cd3RHRWllUHRWQjVyZVVBMURaS0VsRnNqbDlVdjR2ZXpmeDIybmVMUXNvc3hDOHpDb0tpcG82NEJNdm1scTYyNGo5LXFqdkdYbEo3M19odzRTZ9IBrwFBVV95cUxQVWNNcUlDTVdKWUdlQWJYU0RpOWROM2tqUHByMUlwRTdxRlhNTnY4MlZhOGFMTE5jakhLYVVKeDNzMGRLZnlwemVTcmVXZXVwTDVvUEY3eEFNMURHVFlnLUZMZlUtaHNKZHFfaDYtVmhDNmt2ZzBGVE44eVA2aWdjN2hqMGV6TElVd28wN0tlSUVXTVA5cmp4Y3JVWVRaN1pqOGtqRmRRTHV2OUdqV1FR?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "Indonesia",
       "published": "2024-07-29T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Vietnam",
+      "query": "\"wood pellets\" \"buy\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1678,9 +1694,9 @@
     {
       "title": "Drax: UK power station still burning rare forest wood - BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zaV9IYnlqTnNjYXJQMmRXSXFHV193Wm9iZ0xaRFc4Nkk3aGVQMEVlaDJ0U3c4UUxjdGhiVlBfVjdIZmFYWnhQWjljcE04eDlJUHRoQndTUElEOFZvYnpQLUNDTQ?oc=5",
-      "country_context": "Nepal",
+      "country_context": "India",
       "published": "2024-02-28T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Nepal",
+      "query": "\"wood pellets\" \"power plant\" India",
       "classification": "unverified_news_signal"
     },
     {
@@ -1774,9 +1790,9 @@
     {
       "title": "Part 1: Smoke, Mirrors, Wood Pellets: Vietnam Clears Native Forest To Supply ‘Clean’ Energy to Asia - Pulitzer Center",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTBZX2pEd0laYllpMjc3RGczUDFBT0p1bmgyWlRPR2dFMHd1bi1UTEtaRzRjRHJYbFgxbnFJZlFKaDktOGQxMEgxeFk4a2l4M1F2bkYxcmVZdlU0WjhLRlRmLUx1Y0tQYnBvVEh2dlFsSVktVS0wTThNakVORVhfR0Zrd3MyWGhvcUo0NkJDd3d0MXhaMkVpYlRxY2NLVmhxZ1FpelFOZHJvZDJ5eHUyY0dGZGhvVjRjX21RWDBhWQ?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "Indonesia",
       "published": "2023-11-19T08:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" Vietnam",
+      "query": "\"wood pellets\" \"buy\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1889,6 +1905,14 @@
       "country_context": "Nepal",
       "published": "2023-07-04T07:00:00+00:00",
       "query": "\"wood pellets\" \"power plant\" Nepal",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Drax-owned wood pellet plant in US broke air pollution rules again - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2I2TWxNMDNVOFZGVjR6aDRVamtzZ1ZCODVTcURpVTlCMDlTaUpCeU9WT0pjaGFmUERYLXM4dUU5M0RmWE9Rd0IzMGg3TmdsWkNHRWNJTWc0QXJWLTZtTWxmXzJPMC1OT0NkMkFLVUNDaWdrQ3VEWW43UVlOaGdvSFk3MVVZYmc4VF9LTWhGVVdHTDlwUnZObVk5ZzgtekkxdUNvLTNhRnR0NXpQc0NOM3lPOWFFTDZwYUNWVWlNUWxHTThTZ0ZKUzFGNExFdDVncG12VUlpWmt6UmZpMEFXLWdnSDdIWXdTd1E?oc=5",
+      "country_context": "Qatar",
+      "published": "2023-05-29T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" Qatar",
       "classification": "unverified_news_signal"
     },
     {
@@ -2150,9 +2174,9 @@
     {
       "title": "The 'green' row over the UK's largest renewable power plant - BBC",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fNUlqdTU3LXg0alRndDR5dXRyQUpnTnNBeUNfSnpuSTMwUVF0Tk5aSUNTdHRLVDdfbUttaXhmQk5yYy1uSjZkSWNGejlMUDZxaG9rWA?oc=5",
-      "country_context": "Turkey",
+      "country_context": "Nepal",
       "published": "2022-01-14T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Turkey",
+      "query": "\"wood pellets\" \"power plant\" Nepal",
       "classification": "unverified_news_signal"
     },
     {
@@ -2246,9 +2270,9 @@
     {
       "title": "Tees Renewable Energy Plant, Teesside - Power Technology",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BTWFoaThXTzZUc0pIbGFYZF9lYlYxdmN1OGMzOTFJS0ZmcEFGNXpINUxubnFBU3B5Z3dIT0JUYVhZdTROeXJoMjR4TFZpbEIwTmotRktCelh1ZHBWUkEtR2FjSmIxU0t5UUxqVU1sOUlFRW1La09UX3BmaGw?oc=5",
-      "country_context": "Turkey",
+      "country_context": "Kuwait",
       "published": "2020-10-16T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Turkey",
+      "query": "\"wood pellets\" \"power plant\" Kuwait",
       "classification": "unverified_news_signal"
     },
     {
@@ -2510,9 +2534,9 @@
     {
       "title": "From plant to port: The journey of a compressed wood pellet - Drax Global",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFpaM0lNUDduLVlvVTR6QjlaYmdXb0FrWGlYWFJESDl1a3paREFMZTY5cjhsczlMdDRvUUUzWGJQSndfaTJjUXpheEVFLWo2bmZHSk55Q3Zja1ZhZHZuX3ZkZ29CcWE3NXVVaXFzZG02dnVJWVZQdXJjeDMybVNJWi1wYVFvVUZiT2oxODNWQU9jN2J0WVZpTTYtOFF6dw?oc=5",
-      "country_context": "Oman",
+      "country_context": "Nepal",
       "published": "2017-02-23T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Oman",
+      "query": "\"wood pellets\" \"power plant\" Nepal",
       "classification": "unverified_news_signal"
     },
     {
@@ -2534,9 +2558,9 @@
     {
       "title": "BEE Ghent Biomass Power Plant, Port of Ghent, Belgium - Power Technology",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTdOWEdMcFJSczMzZ3FUS3d2ejY5Y2xSaVozRGJPZTN6bWg4eVpldFRST213QWd1Q0dNNnVKemxwSDBsVWc2aFJaOUsxRTM4dnBuNU9lZTU5aW9hU2RqZk05R3I5Si04V3hCZE9la0FhQmNkZlYweEJKS0FBVXpQNklYR1AzU3ZoZ2lfTktLZw?oc=5",
-      "country_context": "Bahrain",
+      "country_context": "Nepal",
       "published": "2016-03-11T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Bahrain",
+      "query": "\"wood pellets\" \"power plant\" Nepal",
       "classification": "unverified_news_signal"
     },
     {
@@ -2618,158 +2642,15 @@
       "published": "2013-12-15T08:00:00+00:00",
       "query": "\"wood pellets\" \"power plant\" Turkey",
       "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Pratt & Whitney Power Systems to Deliver Biomass Waste Heat Recovery Power Plant for Nechako Green Energy in British Columbia - Aerocontact.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNOVZnOXJJUlhod1FqcElnMzQ4M1NuY2UyVFNMVVNOd0dGbHoxMVhmcGY3SlpiVXpfMUR5TklHMVpyaUk0TGZ0d2lUR09VSlA1Q0UwdkVkSUkzblUzVzRQT1F1bzRpVHJfRWxBNUZsUm9YalNIQWFranVYUzdoUnVsUXdieWRfcUNLZWNFZ1c3bGFpTnNLa2NqOTl5OXpwc01MR2dYaVpnaElyUlJDQl9leDdYMlZfWTgyaWl3M29zbU1RQ1pEV2VCd0tCRjRVN0VGSnhTa29LQ2ZZenJxb1IwUDEyeDB4d0xmbG04OEIwc21Xcm1hQVBZZzRlVW5QTWtYN2lvZWFiNWtGZ2czbW9ERHJ3?oc=5",
+      "country_context": "United Arab Emirates",
+      "published": "2011-10-14T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" United Arab Emirates",
+      "classification": "unverified_news_signal"
     }
   ],
-  "errors": [
-    {
-      "country": "Japan",
-      "query": "\"wood pellets\" \"buy\" Japan",
-      "error": "HTTPError"
-    },
-    {
-      "country": "South Korea",
-      "query": "\"wood pellets\" \"buy\" South Korea",
-      "error": "HTTPError"
-    },
-    {
-      "country": "China",
-      "query": "\"wood pellets\" \"power plant\" China",
-      "error": "HTTPError"
-    },
-    {
-      "country": "India",
-      "query": "\"wood pellets\" \"buy\" India",
-      "error": "HTTPError"
-    },
-    {
-      "country": "India",
-      "query": "\"wood pellet\" \"importer\" India",
-      "error": "HTTPError"
-    },
-    {
-      "country": "India",
-      "query": "\"wood pellets\" \"power plant\" India",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Thailand",
-      "query": "\"wood pellets\" \"tender\" Thailand",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Malaysia",
-      "query": "\"wood pellet\" \"importer\" Malaysia",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Singapore",
-      "query": "\"wood pellets\" \"power plant\" Singapore",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Taiwan",
-      "query": "\"wood pellets\" \"buy\" Taiwan",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Taiwan",
-      "query": "\"wood pellet\" \"importer\" Taiwan",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Bangladesh",
-      "query": "\"wood pellet\" \"importer\" Bangladesh",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Pakistan",
-      "query": "\"wood pellet\" \"importer\" Pakistan",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Pakistan",
-      "query": "\"wood pellets\" \"power plant\" Pakistan",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Sri Lanka",
-      "query": "\"wood pellets\" \"buy\" Sri Lanka",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Sri Lanka",
-      "query": "\"wood pellets\" \"tender\" Sri Lanka",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Sri Lanka",
-      "query": "\"wood pellet\" \"importer\" Sri Lanka",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Sri Lanka",
-      "query": "\"wood pellets\" \"power plant\" Sri Lanka",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Myanmar",
-      "query": "\"wood pellets\" \"buy\" Myanmar",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Myanmar",
-      "query": "\"wood pellet\" \"importer\" Myanmar",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Myanmar",
-      "query": "\"wood pellets\" \"power plant\" Myanmar",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Cambodia",
-      "query": "\"wood pellets\" \"buy\" Cambodia",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Cambodia",
-      "query": "\"wood pellets\" \"tender\" Cambodia",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Cambodia",
-      "query": "\"wood pellets\" \"power plant\" Cambodia",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Laos",
-      "query": "\"wood pellets\" \"buy\" Laos",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Brunei",
-      "query": "\"wood pellets\" \"buy\" Brunei",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Brunei",
-      "query": "\"wood pellets\" \"tender\" Brunei",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Brunei",
-      "query": "\"wood pellet\" \"importer\" Brunei",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Mongolia",
-      "query": "\"wood pellet\" \"importer\" Mongolia",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Mongolia",
-      "query": "\"wood pellets\" \"power plant\" Mongolia",
-      "error": "HTTPError"
-    }
-  ]
+  "errors": []
 }
