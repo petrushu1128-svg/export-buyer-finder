@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-18T04:30:38.336859+00:00",
+  "updated_at": "2026-11-19T04:32:20.082457+00:00",
   "source": "Google News public RSS",
   "method": "public_news_candidate_extraction_v5.3",
   "disclaimer": "UNVERIFIED news mentions only. Country is search context, not confirmed HQ. No company size, actual pellet use, purchase intent, website, or email verified.",
   "stats": {
     "queries_attempted": 152,
-    "articles_checked": 344,
+    "articles_checked": 433,
     "candidate_records": 7,
-    "feed_errors": 30
+    "feed_errors": 0
   },
   "items": [
     {
@@ -109,156 +109,5 @@
       "first_seen": "2026-10-29T15:51:57.452561+00:00"
     }
   ],
-  "errors": [
-    {
-      "country": "China",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Taiwan",
-      "sector": "pellet_distribution",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Vietnam",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Vietnam",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Vietnam",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Thailand",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Thailand",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Thailand",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Malaysia",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Malaysia",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Malaysia",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Malaysia",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Malaysia",
-      "sector": "pellet_distribution",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Singapore",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Singapore",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Singapore",
-      "sector": "pellet_distribution",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Philippines",
-      "sector": "pellet_distribution",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Indonesia",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Indonesia",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Indonesia",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Indonesia",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Indonesia",
-      "sector": "pellet_distribution",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Bangladesh",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Bangladesh",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Sri Lanka",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Sri Lanka",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Sri Lanka",
-      "sector": "pellet_distribution",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Cambodia",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Cambodia",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Myanmar",
-      "sector": "pellet_distribution",
-      "error": "HTTPError"
-    }
-  ]
+  "errors": []
 }
