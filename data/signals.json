@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:42:20.425066+00:00",
+  "updated_at": "2026-11-20T02:41:26.619173+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
@@ -17,6 +17,14 @@
       "country_context": "Turkey",
       "published": "2026-11-17T02:23:53+00:00",
       "query": "\"wood pellets\" \"buy\" Turkey",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "High Stretch Cushion Paper Market in China: Size, Trends and Forecast to 2035 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzZ5Tld4RTk5QTZWTk9KaWU0WExIU1hFWDZHMGxfbGRqbVF0SGFBdVE1d1JRdXRUVHZGLTI0dFNvNkUtZHF1bGFpdTl5SzZzMmJkQTFZMlFtVDkyaktSV2wwbHFKNzBZcjBEOG42cnlIU0xnSFVsQnl0QjRrOUkyVGg4MjNod2hDaUpVTXlrekdubTVOQ3lZU2dyLUt6TFBVUEo3cHBiNUJBVWdFaS1HMjRmVQ?oc=5",
+      "country_context": "China",
+      "published": "2026-11-12T17:54:26+00:00",
+      "query": "\"wood pellets\" \"buy\" China",
       "classification": "unverified_news_signal"
     },
     {
@@ -174,9 +182,9 @@
     {
       "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate - CELIOS — Center of Economic and Law Studies",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWRQbFVDWXE3WXBJSHBTc0JQUDdzTVRtckJuTHE1ZmNKUTVxajFLSnBWZW9wY3dlRkxvS3QyUUcxWE9QSlhYTjZhdXJmdE9ReENXcThVQ0JmazlaWE5GMkZDT08wNGIzbkFSRmpfZTJHUmM5TV8wejFGa2stTGxEcHRIaFRiclotendEdTRSQ3h3NW5UMXByaFAwcUNEUXFTQ2NpRVhKdldzVldWOWJXUg?oc=5",
-      "country_context": "Indonesia",
+      "country_context": "Turkey",
       "published": "2026-10-23T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Indonesia",
+      "query": "\"wood pellets\" \"power plant\" Turkey",
       "classification": "unverified_news_signal"
     },
     {
@@ -462,9 +470,9 @@
     {
       "title": "Dust Clouds Viet Nam’s Wood Pellet Boom - Pulitzer Center",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zOG5MeFVaN2N3RGRqMW1uQmJGXzV3NEVDU2FhTmZSbGNkb1FtcXROVjg5SXZUeTFmRV9iQnAwUWxwOVgyQ2EtUDV0YWRlMjhYVE1BNVhiZG5iSkdPdWZtdlZNZ2JwZmM0QUF4Sk5yaHRnU2EtTW1ZS2h2UjhtZw?oc=5",
-      "country_context": "Vietnam",
+      "country_context": "South Korea",
       "published": "2026-06-15T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Vietnam",
+      "query": "\"wood pellets\" \"power plant\" South Korea",
       "classification": "unverified_news_signal"
     },
     {
@@ -598,9 +606,9 @@
     {
       "title": "Drax claimed record £999m in subsidies for burning trees in 2025, thinktank says - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWk4ZFY0aGVPWlNzcGZEMS13YTdOUXNieXB6cVRUQlZSWFg2RFUwcXZNNVFXUHpXSndvR1RDVFY3ZWpwSXlBbjViYjFVV3FjdGhramgwRUNXeDRpTWNudVFoR0FuX0tzYVFZRmFoRExISGcxQjNBckFqb0pyQ2o0RnVpakNxNVdVWERHTzRXbEFNVVdGYjhXMA?oc=5",
-      "country_context": "Pakistan",
+      "country_context": "Myanmar",
       "published": "2026-04-15T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Pakistan",
+      "query": "\"wood pellets\" \"power plant\" Myanmar",
       "classification": "unverified_news_signal"
     },
     {
@@ -625,6 +633,14 @@
       "country": "Indonesia",
       "published": "2026-03-26T07:00:00+00:00",
       "query": "\"wood pellets\" import Indonesia",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Following Defeat in California, Wood Pellet Industry Eyes Pacific Northwest - Earth Island Institute",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaWhIRmh4ZGdGdm9qTmZ4cFN5V1lHaVQzcFJSWHZQTjFfbE1rVUNpSVEwTjNCN0hWYUZ0SzhHTnpfNmprYWNtS2lqYmp1WlZUMGpmdGhYWlhGT0dESzNlOTg3V053TGM2SmlKUm9IVFlBZnVPM29vU2tyUzFoMURrckFJN1gzLUpSNzZReGZUNGNuRFpRNllWeFlpeW40eHFPdTFWVmRHWDJwLVJjTTlCY0N2ZEQ1aGhGaFZfYU5iR21sZnJEcFZOTTJXOFpqenpZV1E?oc=5",
+      "country_context": "South Korea",
+      "published": "2026-03-24T16:48:48+00:00",
+      "query": "\"wood pellets\" \"power plant\" South Korea",
       "classification": "unverified_news_signal"
     },
     {
@@ -678,9 +694,9 @@
     {
       "title": "Drax to stop burning controversial Canadian wood within next year - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2NXY0NzbVdpR0FyX2RXd1pzdFVkNlFidEVmMV9ISXJDNXdURWRmOTN6WVFhQmctdWxzUW9fMXNsbzNiUFNkM1FJOU5OWTVRQzlITXM3ZjBFdTlDTGxEa1J0QzNnWk5KMGxwb1BqT2dqakhkNGJXSEFQZnM4c28wZlc4MlJwWTlVRHJNaFBQRV9fWVhGeXQ4R3ZvM3pWVjhOTGczZzhmZ2dUcXEyZHRuWE5tdmV6ZHFzZ0VaVHpteGg3SzY2TzJyOQ?oc=5",
-      "country_context": "Jordan",
+      "country_context": "Pakistan",
       "published": "2026-02-26T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Jordan",
+      "query": "\"wood pellets\" \"power plant\" Pakistan",
       "classification": "unverified_news_signal"
     },
     {
@@ -743,7 +759,7 @@
       "title": "Drax hit as Japan pivots away from burning wood pellets for energy - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpqRTRaZjF0ZmZ4QXNDM1BCYnpJZDdEeWlmMVN6bmRZQVVSZW50dzZXYzhmTEQ3aXVuM2loQ1BtRzJnUXFSVm81M0ttaUNZaWR6ODVTejY3aWlwb1l0Y0J2RDVaSW1PUjZ0SU1OX1A0UGxfY3RzMS1DaGg2Xy04ak5FNHg?oc=5",
       "country_context": "Vietnam",
-      "published": "2026-01-27T08:00:00+00:00",
+      "published": "2026-01-28T08:00:00+00:00",
       "query": "\"wood pellet\" \"importer\" Vietnam",
       "classification": "unverified_news_signal"
     },
@@ -830,9 +846,9 @@
     {
       "title": "UK using more wood to make electricity than ever, Drax figures show - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWJEWE8yeFNRSzR1OTdJODBNRngybXp3TDFYZUQ1UjUzYk5FdDlDdmQwaHVfanJYWHpkZUZfM1dYb0wyME16bkZRZkhUOURsQWpIdnBPd0dmYmM0X3MtVUp0dUtGUXdFQWZQQ3dxMURBQ3AyOC10UktJMVpKeUR1WFl6Z2N6UTdJM3FFcTkzX2NRR1N3UHQyS3VvRWVxcktWR1dOWTN0eW9jYTFCSXZGR05aanZYQQ?oc=5",
-      "country_context": "Saudi Arabia",
+      "country_context": "Myanmar",
       "published": "2025-12-04T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Saudi Arabia",
+      "query": "\"wood pellets\" \"power plant\" Myanmar",
       "classification": "unverified_news_signal"
     },
     {
@@ -886,9 +902,9 @@
     {
       "title": "Drax still burning 250-year-old trees sourced from forests in Canada, experts say - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXFURmU5aEd1RzNfVXRXa1hrN20xbFRKRTNpb21INzc5cnN0ejFFU0Z0WEdHOTE2UU5pSnRTVk9OcDBCdHV5dmZFVEdMV05zNWg0OWdFRmNYU2gwQUF5akg0VTlwSjNkb2w5Yk85TVJwelV5Nk5qenA1cTRXYVUwMWMxNEdsd0lLRWY4ZFJRWWE3aUdUeEtwY1B0UjZBNXdsQllpRXpFU0hsYnYyd2NtdUxkZTQ2QXNMei12WkQ2ZG9EU1JUWDlXMg?oc=5",
-      "country_context": "Bahrain",
+      "country_context": "Myanmar",
       "published": "2025-11-09T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Bahrain",
+      "query": "\"wood pellets\" \"power plant\" Myanmar",
       "classification": "unverified_news_signal"
     },
     {
@@ -1070,9 +1086,9 @@
     {
       "title": "Drax’s shares plunge as City watchdog investigates sourcing of wood pellets - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW0zNFhYWWNUZ2NtOHJmcTRlWTZ3NjZrUVA0Zk5FcEpmekJkWks3SHpWSjJnVGdVOHUxSHNsMXM3LTdZRWE1aEFJYzhMaUc3T05fRTR6cmZwMlpwVHVnZjgxSmRMc1JidUprRWhfdlpmRUs5dk1CRXYzam9SQnAxMzhpbGxqWlJNLUpMWUZiRXNJVG12UXBjdUpCQTFFZVRuT1cyVmFFVktNY1F3SHYwaDh2eGZjY2NNN0lMZzZKMDU5a3RXWkMw?oc=5",
-      "country_context": "Bahrain",
+      "country_context": "Myanmar",
       "published": "2025-08-28T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Bahrain",
+      "query": "\"wood pellets\" \"power plant\" Myanmar",
       "classification": "unverified_news_signal"
     },
     {
@@ -1294,9 +1310,9 @@
     {
       "title": "Forest biomass growth to soar through 2030, impacting tropical forests - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdDU1cGdZemFqYUNLTHhIU2EtM053TnFrUDZVZ3ZHV3Q3SWFBM3paYWJCaFUtMlZVUHJwTm1mVS0zYmg1ZDNQLWpqaUtkVmFVaEM2QjZkeDE0a0k1Mno1M2ptUW1tbllIZ3pPaE0wNFJDVHRMeUhScWVPT055bXN5cFhxNEdENjdURkFYd0xQaFJZZi1HdXMxSC16OFNBTGc0dEpxMzUta9IBrAFBVV95cUxQRTBfamUxX29qdFE3ZVdNbU04RUxEVmdxTklkTFZYaGlsVWtaR2tVQ0ZLajBYTVJCUzJPWkxKMl9Ga2RaVG91MEV5UWZRTUNzRldDVThDeFVxdXdVeFZ1Vk5wWEgzaXRUVlg0STRWNXJnNy0tdTZraWRhVk1XWGpEcGp4SVROMVhWb050UzlDRzFISXRaTVdHQkhELVA0MjJnZjBZdmRTTzUyMTZJ?oc=5",
-      "country_context": "Taiwan",
+      "country_context": "Malaysia",
       "published": "2025-03-06T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Taiwan",
+      "query": "\"wood pellets\" \"power plant\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
@@ -1598,9 +1614,9 @@
     {
       "title": "Biomass power station produced four times emissions of UK coal plant, says report - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQlozeDRNYVg3WlBROHNwNmNSU2plYURnRHVtNU1xU20yWks1UXZ4T2dvWHQ5Mm1yQmxEN3dmcG1BY3JiS2N4dk1OY2kyT0tBb1EzbWRuQ2V6WFl5ZWJLQWFWQlFRUGYxSW1HZ21YNG5xUTVwd0NaOFdfQndRbWdtSG1iT05PWGhGeFozd1J2TTFaNk42QnU2eTdfdk56SGdRN2M1VzNIcnNmci1pQm5wMHJCVjRCNW9GdUg0Yi1fUEhsYkxCR2o2ckZ4R3NPVUpVTXhVTGwyaw?oc=5",
-      "country_context": "Saudi Arabia",
+      "country_context": "Myanmar",
       "published": "2024-08-09T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Saudi Arabia",
+      "query": "\"wood pellets\" \"power plant\" Myanmar",
       "classification": "unverified_news_signal"
     },
     {
@@ -1702,17 +1718,17 @@
     {
       "title": "Drax: UK power station still burning rare forest wood - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UZkNzOXRoUU5hb1JaWlZ4dS0yN1pyQmJDRFBhblZ1akV1LUJxS21ua3ZpWnQ2cThmTmkxc0VFdVk0R3lrOV8tUExtVFJtOXV2SHpfTzVIdDBMUHdzTlBGUXhwaFBVZw?oc=5",
-      "country_context": "Cambodia",
+      "country_context": "Myanmar",
       "published": "2024-02-28T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Cambodia",
+      "query": "\"wood pellets\" \"power plant\" Myanmar",
       "classification": "unverified_news_signal"
     },
     {
       "title": "Drax: UK power station still burning rare forest wood - BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zaV9IYnlqTnNjYXJQMmRXSXFHV193Wm9iZ0xaRFc4Nkk3aGVQMEVlaDJ0U3c4UUxjdGhiVlBfVjdIZmFYWnhQWjljcE04eDlJUHRoQndTUElEOFZvYnpQLUNDTQ?oc=5",
-      "country_context": "Nepal",
+      "country_context": "India",
       "published": "2024-02-28T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Nepal",
+      "query": "\"wood pellets\" \"power plant\" India",
       "classification": "unverified_news_signal"
     },
     {
@@ -1936,7 +1952,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2RIVDNqUHc0UDRHNmN1Tmp6Nk1MVVhvb3lNclF2N0NHM25IS0Ryd0E4WWdFOUZQWUlqM0VSUmlsSF9wV2ZoeDRhWVJBZzVtT056N1EwdElHZUl0TUhZbm4yNFJNU2EyY3ROY1laTFR3QkFJeVFNZExBbHlyLXhhcnNtSENWOG5OYnFJTWV3VGtKWDM3eV95UGxyOFlkVW1HMW1kNUh3SVFQNUo1TkE?oc=5",
       "country_context": "Malaysia",
       "published": "2023-05-15T11:03:59+00:00",
-      "query": "\"wood pellets\" \"buy\" Malaysia",
+      "query": "\"wood pellets\" \"power plant\" Malaysia",
       "classification": "unverified_news_signal"
     },
     {
@@ -2084,11 +2100,19 @@
       "classification": "unverified_news_signal"
     },
     {
+      "title": "Pellet & Power News Roundup - Biodiesel Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wS0JLTXVOR3BJbTBLQzFaT1l3NGFXTkhDM1BTNE1jcHpXQVdXcExvMFZoVzIxX3N5UjhwNFRJbHRGOWt4eDdlUGdQMG9wR2FzMkZIUkpWU3ZaQVhpeHM3bFZKallMMFVxdmhlR2xiTElTOU5yb05yUDl3?oc=5",
+      "country_context": "Japan",
+      "published": "2022-08-02T07:00:00+00:00",
+      "query": "\"wood pellets\" \"tender\" Japan",
+      "classification": "unverified_news_signal"
+    },
+    {
       "title": "Gia Lai plateau's enigmatic wood kingdom - Báo VietNamNet",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXdpdG5Yekh5ZjB6QXl0VldGckRNeXVDYUVWaXFic19xTzI3aTNBaVRNVmYzQ0FpZ2JjZXpFbjJ1dUdOcGJObVhSYVY1ZUZ5WHdrTE9CT1ItN3ROaUFKWExxT3Qtbk9DV1B4VDFBb0gwYWZidmdhbGpiTjhRMTVUbkdxWGU?oc=5",
-      "country_context": "Thailand",
+      "country_context": "Vietnam",
       "published": "2022-06-11T07:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" Thailand",
+      "query": "\"wood pellets\" \"buy\" Vietnam",
       "classification": "unverified_news_signal"
     },
     {
@@ -2102,9 +2126,9 @@
     {
       "title": "As biomass burning surges in Japan and South Korea, where will Asia get its wood? - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGhGVjg4TWFVbG1QQVhUd0NsLTR0LUQtblFsaHdfRFRsb3czREFQaDVtRV95cWo3Mkp5V3RyVkE5bzB3WHRpSkc3Xy1WOVl5c212QVhHUjZDVU80cXJta0w1WEdIaDE3TVEzQXhyNE9RZHM0bWw2czdUZUtud0duNnFxaGlWX2hNR1plenMwLWw3ZVdGb3AtN2JBZ09oMHhGVG1iSmxPMHVkblpqd1VsTEV1anHSAboBQVVfeXFMUFB0M3BzT0lFU3dLdEZ0ZjRwRjlpZlg0ZlZaa2E5YXg1cFRKa2IwaTFSOHkyUmItYW84SWZZS25kaU5mRnpJUDhURVptdmU0WndCU0M2aWhqaXpERGl1WEJMUGczTTZSNG5VbFB6bC1mc1JnbEtpZ0hROVNicnJEZVVFbFRDcXV5QWRsTlZxY2VsX0l6dEhXd0tYcmNCaUJiSFN1MXcybVpsY0FoaTNNNjBvcFZTMkpGZElB?oc=5",
-      "country_context": "Bangladesh",
+      "country_context": "Vietnam",
       "published": "2022-05-19T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Bangladesh",
+      "query": "\"wood pellets\" \"power plant\" Vietnam",
       "classification": "unverified_news_signal"
     },
     {
@@ -2206,9 +2230,9 @@
     {
       "title": "The 'green' row over the UK's largest renewable power plant - BBC",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pRU8xa2g4bFk4VEhGTHBCUmp1Y284YkFlM1VfdXRoRUlELUY0SlNpTkhVejIzUmdxRFJmMy1wNHRza3pyN0dEWVdrUWE2T2Q2RGoyclQxQQ?oc=5",
-      "country_context": "Philippines",
+      "country_context": "Jordan",
       "published": "2022-01-14T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Philippines",
+      "query": "\"wood pellets\" \"power plant\" Jordan",
       "classification": "unverified_news_signal"
     },
     {
@@ -2532,7 +2556,7 @@
       "classification": "unverified_news_signal"
     },
     {
-      "title": "South Korea's Largest Wood Pellet Plant to Launch in September - ResourceWise",
+      "title": "South Korea's Largest Wood Pellet Plant to Launch in September - Resource Wise",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlNLQXhTTXVqQ0hmb0pUeWdwSWZiOVdDSFE0ZFBTYWxiUm1FRlEyaWtSQnA1LUNoMmxTRDFFTFlkSThOQnJSZVJXMUdfM2twemJSQU91WFhPLXhpRjFXQVZIWW9DLVRuZklualRxVGJKM0NTSHp6ZktfLWRkSlN1d1NKYkh6Q3BlR0NxT1FsVVFwTGRqUGg1OWlnVnJFY3hDTmpnSDNBUkhnRmVl?oc=5",
       "country_context": "South Korea",
       "published": "2017-08-11T07:00:00+00:00",
@@ -2582,9 +2606,9 @@
     {
       "title": "An incinerator with a view: Copenhagen waste plant gets ski slope and picnic area - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeE9zNlZybEtQekhTZ3VGNGhRODR5dlA4UUdtWWV3WVMzRndTUXBFbVhuU1VWX2NTM3FrMUlXLXEwSEVRbWhEMFZSUnFEZmEwZUZSNDB3NVdQcHllNmQ0VGJYVC05X1JTQll1UVY1QUVuUG5GNm1ueE1RNUFzcGpEUHRUWWpDMHF3THVtMm9OeU9YQWREVEdSalROblNLOUgzRVlhY1BaYzg?oc=5",
-      "country_context": "China",
+      "country_context": "Nepal",
       "published": "2016-10-26T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" China",
+      "query": "\"wood pellets\" \"power plant\" Nepal",
       "classification": "unverified_news_signal"
     },
     {
@@ -2692,5 +2716,26 @@
       "classification": "unverified_news_signal"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "country": "South Korea",
+      "query": "\"wood pellet\" \"importer\" South Korea",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Thailand",
+      "query": "\"wood pellets\" \"buy\" Thailand",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Taiwan",
+      "query": "\"wood pellets\" \"power plant\" Taiwan",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Jordan",
+      "query": "\"wood pellets\" \"buy\" Jordan",
+      "error": "HTTPError"
+    }
+  ]
 }
