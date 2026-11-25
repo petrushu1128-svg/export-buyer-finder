@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T02:45:28.443388+00:00",
+  "updated_at": "2026-11-25T02:47:06.189342+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
@@ -190,9 +190,9 @@
     {
       "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate - CELIOS — Center of Economic and Law Studies",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWRQbFVDWXE3WXBJSHBTc0JQUDdzTVRtckJuTHE1ZmNKUTVxajFLSnBWZW9wY3dlRkxvS3QyUUcxWE9QSlhYTjZhdXJmdE9ReENXcThVQ0JmazlaWE5GMkZDT08wNGIzbkFSRmpfZTJHUmM5TV8wejFGa2stTGxEcHRIaFRiclotendEdTRSQ3h3NW5UMXByaFAwcUNEUXFTQ2NpRVhKdldzVldWOWJXUg?oc=5",
-      "country_context": "Turkey",
+      "country_context": "Indonesia",
       "published": "2026-10-23T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Turkey",
+      "query": "\"wood pellets\" \"power plant\" Indonesia",
       "classification": "unverified_news_signal"
     },
     {
@@ -265,6 +265,14 @@
       "country": "Japan",
       "published": "2026-09-15T07:00:00+00:00",
       "query": "\"wood pellets\" import Japan",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "Best Smoker Pellets for Turkey That Will Wow Your Guests - pacificstreetpizza.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMFJJenNXR3owNGtSRElFVWI0YXBYQjh3ekI2U1h3Ym91ZEQ5UWN0MkZoQWoydjZIZDBhTHB4cFA4elN4Qk1YV0dsTXNpWDZvSmgxSjB6NTlQTUkzUm4yQ3A0V2YtZFNjeE45YlFmZw?oc=5",
+      "country_context": "Turkey",
+      "published": "2026-09-15T07:00:00+00:00",
+      "query": "\"wood pellets\" \"tender\" Turkey",
       "classification": "unverified_news_signal"
     },
     {
@@ -342,9 +350,9 @@
     {
       "title": "Concerns grow over ‘green’ biomass power in Japan after spate of accidents - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPempEdGJ0czRBdElEeE5QX2pQNi03cVQwdXJ6SS1Tc296RkE0alU3RFFhZzFWYXA0enhDc1RYMlNFSlN4aGh6cFlNVmdxMUVDdkJhUlhELWdOTm1IMG95WTMtZDQtZ2lMd25ZSFppTUQzWUhRVmhoU3RsZGliQ1gzU2pvYWFlU3JlcjRRbEtxRnEya3diSC1xVW41eXBCOW9KdVAweUR3UEVfZ03SAbABQVVfeXFMT1F2QjBVVTR3UEdzQmVTTFBjMFBYNEIyMUJoVURMaGx1VEY5bzRPTEVEQllhR0NGVVAxYnBmYk9zWTgyYUxiV05wUmRnb3ZtbDdVOUFvT0xRTkZVVjYtZE1OMGJhRnRaQ2FGLWlSd2xWZXdGQVVpeElaWHg1dmczeV9fblY0OUhFTmkydEtvWnp4YzJNUkxSRmhjRUVtWmt5VDlUZjJFemlTbzBhcGR0T2E?oc=5",
-      "country_context": "Laos",
+      "country_context": "India",
       "published": "2026-08-17T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Laos",
+      "query": "\"wood pellets\" \"power plant\" India",
       "classification": "unverified_news_signal"
     },
     {
@@ -1340,7 +1348,7 @@
       "classification": "unverified_news_signal"
     },
     {
-      "title": "Netherlands’ largest forest biomass plant canceled, forest advocates elated - Mongabay",
+      "title": "Netherlands’ largest forest biomass plant canceled, forest advocates elated - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhYN3FGYVc4bkt5c2dCVUpDZm9wd3NnOHl3QU9vVTFiNXNvRFdLUlNGYnlnR1dmcE9JVmxhY2t6RjY4MlpvdFY0aFF6ZU93aVNyQ0w1Y3JLRTRpV1YzSUlkUWpQc3drR3BFWERjd18ybmR0NnRBTjB2eG44aXhRTlBDak1xdEZ6c0lUTmZyaWFCbkxkSDREdE9oNzhXdkhiNC1jSjQzWTJQZmtW0gGyAUFVX3lxTE5jZGV4dFVmNDZfcDJZSVBlUEhMZk5CNVVlalV0M3VKdmRYaHlrZ0xhVUJCLWtlOFJmMTlTRElWdDFkbGdKT2d5N3JHM1RxOUdCWmF5dlZOeE1qTHR5SGNjbXNtYmU0MjNSaWV4eWI3UDNJSXZFMnd0bVY1bVotX05fdHR3OWM3ZnJrSGxqTU1JT20yY1RjQTl4elFmaWFMbjgtRFN1eU5Cek9CY016TUxYVnc?oc=5",
       "country_context": "Nepal",
       "published": "2025-03-27T07:00:00+00:00",
@@ -1566,9 +1574,9 @@
     {
       "title": "Revealed: Biomass firm poised to clear Bornean rainforest for dubious ‘green’ energy - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3BCOWRzZzFTUnd6TlUwdDJ4Rnd1WE1Bb3F0b3hZN0I0X24wZGMxRFJUOVpXOFR5ZnlwUGMzeEV6TTZvalp0T2gxcWx4ZkR4Ry1xbE1MTkdWRTFJQmFIbFpwc3Y0MDN6U1JscTFNSnd6UkdibnZxa3QxMHdJT2dnTDg4WkVHZ2dvUkhrTzRwbXc2MDJLYTBQb3BJYThQbDh0V09odG1vWmlvd01wM09uN3hYemNWeVJIRVpv0gHAAUFVX3lxTE0xcm90VzdyQVNRaHRJQ1IzVGFybGhJZjNUWnFtN1dDMW5fY0stLTQyUGQxRi1SdVZBbmh1TjdueTZ4T3pVSlFJS1p0TE9tVHhDVjhVRG9FZWVyeFFHZFMzY3A3MmRHSnhzMWt2U04tVUZzQnU1NXMzN3Rrc3RXZEVYQUk4b0FnR1JiczhBM3RxT24zUFhTRWRhWklKNDZTMEw2WkgtUlhodWhsUHhYSThyVFAyczBva3h0TjMzTDRzLQ?oc=5",
-      "country_context": "Indonesia",
+      "country_context": "Singapore",
       "published": "2024-10-21T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Indonesia",
+      "query": "\"wood pellets\" \"power plant\" Singapore",
       "classification": "unverified_news_signal"
     },
     {
@@ -1854,9 +1862,9 @@
     {
       "title": "Enviva, the world’s largest biomass energy company, is near collapse - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcU1HdXQyV1NKZ0pfbHg5Y2VUVUMtZktQSVdpWWhlMnFmaW5Jc25DX3BTTG1SeWRmMGlFS2VqY2FsNTBwLTVaSE1XRXFmZzNYNERaNUI0am4wM3ZaS2ktQWdReGp4M0xhTkFMNmVxdDBvZXBiOHBWa1FjZWZOeFVDbENmRXBjMi1pYkhJRnp3MjlkWkxCY040alZQVC11eW5ZelHSAacBQVVfeXFMTmxtYlZUWFNuWjV1aXlUb2xiMTRKZ05aTEF1MGhPaHlicG1HZGZQdFV6RTAzdE5nRUVkMG4xQzBhNGlrLXBiSktXSDJtcl82TE96RFg5U3hYN1NldkY5VzZpOFlNSGVCYzhSZzdUUDIyNWhsSUlzbTlwR2IxRW01bjJjOGlET2phMnh0elItYndjemRJdU5FMTdXNFlBMXZia1JYd2c2cDQ?oc=5",
-      "country_context": "Japan",
+      "country_context": "South Korea",
       "published": "2023-11-20T08:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" Japan",
+      "query": "\"wood pellets\" \"buy\" South Korea",
       "classification": "unverified_news_signal"
     },
     {
@@ -2198,9 +2206,9 @@
     {
       "title": "Missing the emissions for the trees: Biomass burning booms in East Asia - news - Mongabay",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbGNpcjByb3FFOGotMjUtOF9fMC1LdUtyclk3c2NqY3AtYkZvNkxvLU82aDJrYlJQNnNLUi1qVDAyeEg4VnNBeUpnWUVTQ1JfNjRoUjF3TG5ucFV6aHRxMWRITnVmY2Y0RUZPZlM3dGJHZjRZUENUVFhBMzJCWUpnUl9sM1ZmeVZXWFdwbzU0c2lpYzV5MXc1cnF1ejRrR3Vjd0lPczFTNDfSAa4BQVVfeXFMTUI5eDV2UTBVSUNKQ3FSZ3dzX0RDejlmVTBDbktPMFd4MkJiOG1wU0dVTkctUWV3UEdoTlN6RW41WGJMNWZ3WHdKM1BiclBMRElHTDJkNWhNLW5yQ2xNWnB5TGlSaVY4eXlaZ0luTl9wMWxnUzhHOUNOdXlaMTVmbEpWbkc5dlhDcEpkVjQxc0M0OUJwckFVS05LS25DYVRMMUJSZk9CeDVPM3kxdmdn?oc=5",
-      "country_context": "Bangladesh",
+      "country_context": "Sri Lanka",
       "published": "2022-05-11T07:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Bangladesh",
+      "query": "\"wood pellets\" \"power plant\" Sri Lanka",
       "classification": "unverified_news_signal"
     },
     {
@@ -2217,6 +2225,14 @@
       "country_context": "Saudi Arabia",
       "published": "2022-05-10T07:00:00+00:00",
       "query": "\"wood pellets\" \"power plant\" Saudi Arabia",
+      "classification": "unverified_news_signal"
+    },
+    {
+      "title": "When burning wood to generate energy makes climate sense - Bulletin of the Atomic Scientists",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1RoeXR2X1BEb041VlNyZmNUc29nRXJWRHJBbG1DdzJ5b1FQY0JVZnQ5SUlYUGN0THBEenllMDBiTWtWc2FEMm5paXp3cTZ2MzlscktaaGtDWnBpdU95YnI4NUllZy1WNXhiZGtoeVVnTUV6anVCWWpMU0c4WjUyLXFpRTcxZmlNWjk4QVJvRzlIdmxreUtRMEg0V1M4Zw?oc=5",
+      "country_context": "China",
+      "published": "2022-05-10T07:00:00+00:00",
+      "query": "\"wood pellets\" \"power plant\" China",
       "classification": "unverified_news_signal"
     },
     {
@@ -2286,9 +2302,9 @@
     {
       "title": "The 'green' row over the UK's largest renewable power plant - BBC",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fNUlqdTU3LXg0alRndDR5dXRyQUpnTnNBeUNfSnpuSTMwUVF0Tk5aSUNTdHRLVDdfbUttaXhmQk5yYy1uSjZkSWNGejlMUDZxaG9rWA?oc=5",
-      "country_context": "Nepal",
+      "country_context": "Turkey",
       "published": "2022-01-14T08:00:00+00:00",
-      "query": "\"wood pellets\" \"power plant\" Nepal",
+      "query": "\"wood pellets\" \"power plant\" Turkey",
       "classification": "unverified_news_signal"
     },
     {
@@ -2366,9 +2382,9 @@
     {
       "title": "World’s first microwave-driven plasma gasification plant plugs in Korea in April - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLRXE4eEx0SUE1WmgtUFdzc0kyQ0F2NFRsM1BBQUFYRnEtYUxRRTZKQk96RTNoalZHZDRHQ3NlTzZZTURNUWgtWFI3d1dWQ0hrUUl0Z1RR?oc=5",
-      "country_context": "South Korea",
+      "country_context": "Cambodia",
       "published": "2021-01-12T08:00:00+00:00",
-      "query": "\"wood pellets\" \"buy\" South Korea",
+      "query": "\"wood pellets\" \"power plant\" Cambodia",
       "classification": "unverified_news_signal"
     },
     {
@@ -2780,11 +2796,5 @@
       "classification": "unverified_news_signal"
     }
   ],
-  "errors": [
-    {
-      "country": "United Arab Emirates",
-      "query": "\"wood pellets\" \"tender\" United Arab Emirates",
-      "error": "HTTPError"
-    }
-  ]
+  "errors": []
 }
