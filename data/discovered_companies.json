@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T04:35:31.905787+00:00",
+  "updated_at": "2026-11-25T04:39:19.373903+00:00",
   "source": "Google News public RSS",
   "method": "public_news_candidate_extraction_v5.3",
   "disclaimer": "UNVERIFIED news mentions only. Country is search context, not confirmed HQ. No company size, actual pellet use, purchase intent, website, or email verified.",
   "stats": {
     "queries_attempted": 152,
-    "articles_checked": 418,
+    "articles_checked": 432,
     "candidate_records": 8,
-    "feed_errors": 6
+    "feed_errors": 0
   },
   "items": [
     {
@@ -123,36 +123,5 @@
       "first_seen": "2026-10-29T15:51:57.452561+00:00"
     }
   ],
-  "errors": [
-    {
-      "country": "Singapore",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Philippines",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Bangladesh",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Pakistan",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Myanmar",
-      "sector": "industrial_heat",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Myanmar",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    }
-  ]
+  "errors": []
 }
