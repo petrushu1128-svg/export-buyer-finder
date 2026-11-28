@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T02:46:48.365387+00:00",
+  "updated_at": "2026-11-28T02:42:52.758733+00:00",
   "source": "Google News public RSS",
   "disclaimer": "News results are not proof of imports or buyer intent. Country is query context.",
   "items": [
@@ -2878,18 +2878,153 @@
   ],
   "errors": [
     {
+      "country": "Japan",
+      "query": "\"wood pellets\" \"buy\" Japan",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Japan",
+      "query": "\"wood pellets\" \"tender\" Japan",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Japan",
+      "query": "\"wood pellet\" \"importer\" Japan",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Japan",
+      "query": "\"wood pellets\" \"power plant\" Japan",
+      "error": "HTTPError"
+    },
+    {
+      "country": "South Korea",
+      "query": "\"wood pellets\" \"buy\" South Korea",
+      "error": "HTTPError"
+    },
+    {
+      "country": "South Korea",
+      "query": "\"wood pellets\" \"tender\" South Korea",
+      "error": "HTTPError"
+    },
+    {
+      "country": "South Korea",
+      "query": "\"wood pellet\" \"importer\" South Korea",
+      "error": "HTTPError"
+    },
+    {
+      "country": "South Korea",
+      "query": "\"wood pellets\" \"power plant\" South Korea",
+      "error": "HTTPError"
+    },
+    {
+      "country": "China",
+      "query": "\"wood pellets\" \"buy\" China",
+      "error": "HTTPError"
+    },
+    {
+      "country": "China",
+      "query": "\"wood pellets\" \"tender\" China",
+      "error": "HTTPError"
+    },
+    {
+      "country": "China",
+      "query": "\"wood pellet\" \"importer\" China",
+      "error": "HTTPError"
+    },
+    {
+      "country": "China",
+      "query": "\"wood pellets\" \"power plant\" China",
+      "error": "HTTPError"
+    },
+    {
+      "country": "India",
+      "query": "\"wood pellets\" \"buy\" India",
+      "error": "HTTPError"
+    },
+    {
+      "country": "India",
+      "query": "\"wood pellets\" \"tender\" India",
+      "error": "HTTPError"
+    },
+    {
+      "country": "India",
+      "query": "\"wood pellet\" \"importer\" India",
+      "error": "HTTPError"
+    },
+    {
+      "country": "India",
+      "query": "\"wood pellets\" \"power plant\" India",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Vietnam",
+      "query": "\"wood pellets\" \"buy\" Vietnam",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Vietnam",
+      "query": "\"wood pellets\" \"tender\" Vietnam",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Vietnam",
+      "query": "\"wood pellet\" \"importer\" Vietnam",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Vietnam",
+      "query": "\"wood pellets\" \"power plant\" Vietnam",
+      "error": "HTTPError"
+    },
+    {
       "country": "Thailand",
       "query": "\"wood pellets\" \"buy\" Thailand",
       "error": "HTTPError"
     },
     {
-      "country": "Singapore",
-      "query": "\"wood pellets\" \"power plant\" Singapore",
+      "country": "Thailand",
+      "query": "\"wood pellets\" \"tender\" Thailand",
       "error": "HTTPError"
     },
     {
-      "country": "Bangladesh",
-      "query": "\"wood pellets\" \"tender\" Bangladesh",
+      "country": "Thailand",
+      "query": "\"wood pellet\" \"importer\" Thailand",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Thailand",
+      "query": "\"wood pellets\" \"power plant\" Thailand",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Malaysia",
+      "query": "\"wood pellets\" \"buy\" Malaysia",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Malaysia",
+      "query": "\"wood pellets\" \"tender\" Malaysia",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Malaysia",
+      "query": "\"wood pellet\" \"importer\" Malaysia",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Malaysia",
+      "query": "\"wood pellets\" \"power plant\" Malaysia",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Singapore",
+      "query": "\"wood pellets\" \"buy\" Singapore",
+      "error": "HTTPError"
+    },
+    {
+      "country": "Singapore",
+      "query": "\"wood pellets\" \"tender\" Singapore",
       "error": "HTTPError"
     }
   ]
