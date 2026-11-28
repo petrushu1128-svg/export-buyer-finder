@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T04:36:21.985746+00:00",
+  "updated_at": "2026-11-28T04:32:00.399043+00:00",
   "source": "Google News public RSS",
   "method": "public_news_candidate_extraction_v5.3",
   "disclaimer": "UNVERIFIED news mentions only. Country is search context, not confirmed HQ. No company size, actual pellet use, purchase intent, website, or email verified.",
   "stats": {
     "queries_attempted": 152,
-    "articles_checked": 431,
+    "articles_checked": 438,
     "candidate_records": 8,
-    "feed_errors": 2
+    "feed_errors": 0
   },
   "items": [
     {
@@ -123,16 +123,5 @@
       "first_seen": "2026-10-29T15:51:57.452561+00:00"
     }
   ],
-  "errors": [
-    {
-      "country": "Saudi Arabia",
-      "sector": "power_generation",
-      "error": "HTTPError"
-    },
-    {
-      "country": "Saudi Arabia",
-      "sector": "bbq_smoking",
-      "error": "HTTPError"
-    }
-  ]
+  "errors": []
 }
